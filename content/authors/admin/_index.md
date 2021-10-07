@@ -1,77 +1,53 @@
 ---
-# Display name
-title: Nelson Bighetti
+bio:  
 
-# Is this the primary user of the site?
-superuser: true
+#education:
+#  courses:
+#  - course: 
+#    institution: 
+#    year: 
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+email: "canankarakoc@gmail.com"
+highlight_name: true
 
-# Organizations/Affiliations to show in About widget
+#interests:
+#- 
+#-   
+#- 
+
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+- name: Indiana University, Department of Biology 
+  url: https://biology.indiana.edu/
+role: Postdoctoral Researcher 
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  label: Follow me on Twitter
+  link: https://twitter.com/planetmicroeco
+- icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=BtBhIX4AAAAJ&hl=en&inst=13098912254855678857
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/canankarakoc
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+  link: https://www.linkedin.com/in/canankarakoc666/
+superuser: true
+title: Canan Karakoç
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral scholar in [Lennon Lab](https://microbes.sitehost.iu.edu/) at Indiana University Bloomington. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am broadly interested in eco-evolutionary dynamics of communities, and how they persist and maintain coexistence in space and time. I have a soft spot for for microbes -anything smaller than 1mm. I think they are amazing minute-like-organisms and allow us see evolution in action within days. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I really like to combine these tiny bits of amazing biology to eco-evolutionary theories to understand -and hopefully predict, how the time and changes shape genes, populations, communities and ecosystems. 
+
+Lately I found myself nature, life and death inspired pen&ink drawing and illustrating science for kids & big kids. I try to play guitar, and when I cannot, I just listen music. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
