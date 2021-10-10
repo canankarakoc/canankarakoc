@@ -7,7 +7,7 @@ bio:
 #    institution: 
 #    year: 
 
-email: "canankarakoc@gmail.com"
+#email: "canankarakoc@gmail.com"
 highlight_name: true
 
 #interests:
