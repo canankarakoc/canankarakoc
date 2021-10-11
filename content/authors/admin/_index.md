@@ -48,6 +48,6 @@ I am broadly interested in eco-evolutionary dynamics of communities, and how the
 
 I really like to combine these tiny bits of amazing biology to eco-evolutionary theories to understand -and hopefully predict, how the time and changes shape genes, populations, communities and ecosystems. 
 
-Lately I found myself nature, life and death inspired pen&ink drawing and illustrating science for kids & big kids. I try to play guitar, and when I cannot, I just listen music. 
+Lately I found myself nature, life and death inspired pen&ink drawing and doodling science for kids. I try to play guitar and sing. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -49,6 +49,10 @@ contact_links:
     icon_pack: fab
     name: planetsimit
     link: 'https://www.instagram.com/planetsimit/'
+    - icon: instagram
+    icon_pack: fab
+    name: shorephotos
+    link: 'https://www.instagram.com/shorephotos/'
 
 # Site header
 

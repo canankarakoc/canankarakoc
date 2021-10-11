@@ -46,3 +46,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+Here are some of my nature inspired illustrations.
