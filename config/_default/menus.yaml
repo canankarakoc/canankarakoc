@@ -13,9 +13,9 @@ main:
   - name: Illustrations
     url: '#illustrations'
     weight: 30
-#  - name: Blog
-#    url: '#post'
-#    weight: 40
+  - name: Publications
+    url: '#publications'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 50

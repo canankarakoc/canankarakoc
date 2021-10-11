@@ -20,25 +20,25 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: canankarakoc@gmail.com
-phone: 
+email:
+phone:
 address:
-  street: 
+  street:
   city: Bloomington
   region: IN
-  postcode: 
+  postcode:
   country: United States
   country_code: US
 
 #coordinates:
-#  latitude: 
-#  longitude: 
+#  latitude:
+#  longitude:
 
-#directions: 
+#directions:
 
 #office_hours:
 
-#appointment_url: 
+#appointment_url:
 
 contact_links:
   - icon: twitter
