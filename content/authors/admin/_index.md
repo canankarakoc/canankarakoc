@@ -35,6 +35,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/canankarakoc
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-3921-3535
+- icon: product-hunt
+  icon_pack: fab
+  link: https://publons.com/researcher/4498105/canan-karakoc/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/canankarakoc666/
