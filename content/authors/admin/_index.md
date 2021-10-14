@@ -50,7 +50,7 @@ title: Canan Karakoç
 
 I am a postdoctoral scholar in [Lennon Lab](https://microbes.sitehost.iu.edu/) at Indiana University Bloomington. 
 
-I am broadly interested in eco-evolutionary dynamics of communities, and how they persist and maintain coexistence in space and time. I have a soft spot for for microbes -anything smaller than 1mm. I think they are amazing minute-like-organisms and allow us see evolution in action within days. 
+I am broadly interested in eco-evolutionary dynamics of communities, and how they persist and maintain coexistence in space and time. I have a soft spot for microbes -anything smaller than 1mm. I think they are amazing minute-like-organisms and allow us see evolution in action within days. 
 
 I really like to combine these tiny bits of amazing biology to eco-evolutionary theories to understand -and hopefully predict, how the time and changes shape genes, populations, communities and ecosystems. 
 
