@@ -47,4 +47,4 @@ design:
   flip_alt_rows: false
 ---
 
-Here are some of my nature inspired illustrations. For more follow me in social media. 
+Here are some of my nature inspired illustrations. Follow me in social media for more. 
