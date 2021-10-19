@@ -5,8 +5,8 @@ title: "Drought modulates interactions between arbuscular mycorrhizal fungal div
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Agnieszka Sendek*
-- admin*
+- Agnieszka Sendek
+- admin 
 - Cameron Wagg
 - Jara Domínguez-Begines
 - Gabriela Martucci do Couto
@@ -19,7 +19,7 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-- "*Equal contribution"
+- "Shared co-first authorship"
 
 
 date: "2019-09-01T00:00:00Z"
