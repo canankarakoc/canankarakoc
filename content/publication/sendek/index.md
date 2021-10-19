@@ -19,7 +19,7 @@ authors:
 
 # Author notes (optional)
 # author_notes:
-- "Shared co-first authorship"
+- Shared co-first authorship
 
 
 date: "2019-09-01T00:00:00Z"
