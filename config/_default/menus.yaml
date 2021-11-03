@@ -10,12 +10,15 @@ main:
   - name: Research
     url: '#projects'
     weight: 20
-  - name: Illustrations
-    url: '#illustrations'
-    weight: 30
   - name: Publications
     url: '#publications'
+    weight: 30
+  - name: Illustrations
+    url: '#illustrations'
     weight: 40
+  - name: Outreach
+    url: '#others'
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
