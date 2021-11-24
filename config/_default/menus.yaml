@@ -19,6 +19,9 @@ main:
   - name: Outreach
     url: '#others'
     weight: 50
+  - name: Personal blog
+    url: '#posts'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
