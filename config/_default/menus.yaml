@@ -13,11 +13,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: Science outreach
+    url: '#others'
+    weight: 40
   - name: Illustrations
     url: '#illustrations'
-    weight: 40
-  - name: Outreach
-    url: '#others'
     weight: 50
   - name: Personal blog
     url: '#posts'
