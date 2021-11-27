@@ -63,5 +63,5 @@ After I face my fears and resolve where they come from,  I just go and do. I hav
 
 I am going to paraphrase my therapist again: "Do you have the intellectual capacity to manage detoxing tomorrow? Enjoy that bucket of ice-cream today!". 
 
-<img src="images/fear.jpeg" alt="" width="50%"/>
+<img src="images/fear.jpg" alt="" width="50%"/>
 
