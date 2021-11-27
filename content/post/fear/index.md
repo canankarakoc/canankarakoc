@@ -54,7 +54,7 @@ I am paraphrasing a technique that I have learned from somewhere: When you feel 
 Another technique I have learned is "take a deep breath": Four seconds inhale, eight seconds exhale. Breathing activates the parasympathetic system, which helps you deactivate fight or flight response.
 
 Also, friends, you do not live the moment, if you are afraid of something might happen in future even thought the probability is high. What you do is to sabotage the joy and productivity at that moment. What you simply do is to do everything for that fearful scenario. 
-"Invisible boundary" --Thoreu. 
+"Invisible boundary" --Thoreau. 
 
 After I face my fears and resolve where they come from,  I just go and do. I have done so many things that I have postponed for so long or has not felt secure enough to start. I made new friends, got new hobbies, put myself out, set new goals, and I still have tons of energy to do more. If you work on your confidence, fearful thoughts come less and less everyday, or they become easy to deal with. I think I will write about insecurities in the next post. 
 
