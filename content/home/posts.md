@@ -12,7 +12,7 @@ headless: true
 weight: 70
 
 title: Recent Posts
-subtitle:
+subtitle: On spirituality
 
 content:
   # Page type to display. E.g. post, talk, publication...
