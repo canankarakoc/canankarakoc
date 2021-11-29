@@ -59,7 +59,7 @@ Sometimes we are less kind to our close ones, even to ourselves. We get lost in 
 
 Practice: Some changes will come like a tornado. You should be mentally and physically ready, and filled with kindness and love in your inner world. Train your mind, so when bad things happen, you can see them as opportunity to test your strength and contribute to your inner growth.  
 
-"Step back, take a deep breath, observe your thoughts, accept the change and let it go."" 
+"Step back, take a deep breath, observe your thoughts, accept the change and let it go."
 
 
 
