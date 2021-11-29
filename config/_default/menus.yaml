@@ -8,19 +8,19 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#projects'
+    url: /project
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: /publication
     weight: 30
   - name: Science outreach
-    url: '#others'
+    url: /other
     weight: 40
   - name: Illustrations
-    url: '#illustrations'
+    url: /illustration
     weight: 50
   - name: Personal blog
-    url: '#posts'
+    url: /post
     weight: 60
   - name: Contact
     url: '#contact'

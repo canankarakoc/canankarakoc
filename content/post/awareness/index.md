@@ -1,18 +1,18 @@
 ---
-title: Awareness
+title: 01 Awareness
 subtitle: First step to get yourself together
 
 # Summary for listings and search engines
-summary: Spiritual awareness
+summary: Yes, I am a scholar, but also a human. I have been through tough times too. I got my dream “everything” in life, but still managed to sabotage myself. I have been spending hours, days, weeks and months to get my spirituality back, find my peace, and to be a better human. This is the journal of my stupidities, lessons from them and late awareness, but, who knows, I will maybe save one person from eternal suffering...
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-11-24T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-11-24T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -53,11 +53,12 @@ You must practice a lot to rewire your brain. One example: What would you do if 
 
 Take a deep breath. 
 
+<img src="images/awareness.jpeg" alt="" width="50%"/>
+
 Feelings like fear, pain and suffering are states of mind. They are not real, we make them our reality. We solidify them in our brain, and ignore other possible realities. In other words, they are caused by the narratives that we create in our minds. If you create negative narratives, you will not be happy. Also, you cannot find happiness outside! If your patterns are negative, you cannot be happy whatever the external situation is. 
 
 Listen yourself. Maybe you are also delusional, you have distorted perspectives on yourself, people around you. You think that you are not enough, you think that you will get sick and be miserable, you think that you will get fired for whatever reason. Delusions will crowd your mind, and your life will be filled with frustration. When things go wrong, you will try to correct the condition, not how you respond to it. You will create more problems to yourself and to others. Others will have the option to escape, but you cannot escape from yourself, and you will suffer more at the end. 
 
 In short, do not be a puppet of your mind. You can stop creating unrealistic narratives or the worst-case scenarios in your head. If you are doing that, best way is to find a support to identify the patterns and reasons. Also, you cannot change the situations, but you can change your perspectives to them. 
 
-<img src="images/awareness.jpeg" alt="" width="50%"/>
 

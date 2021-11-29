@@ -1,18 +1,18 @@
 ---
-title: Impermanence
+title: 03 Impermanence
 subtitle: dx/dt
 
 # Summary for listings and search engines
-summary: Impermanence
+summary: ... There is something that we ultimately know but tend to forget in our daily lives, and that is "change". In the words of modern Buddhism "Everything is permanently impermanent". Things are always consistently and constantly changing...
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-11-28T00:00:00Z"
 
 # Date updated
-#lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-11-28T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -36,8 +36,6 @@ tags:
 categories:
 
 ---
-
-If you are reading this blog for the first time, do not forget to read the beginning: "Awareness".
 
 I was going to write about change and how to navigate through changes sometime later, but  this was the topic on Sunday morning meditation, so I wanted to go ahead and write about it now. 
 
