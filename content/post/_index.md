@@ -1,5 +1,6 @@
 ---
-title: Journal of inner work 
+title: Journal of inner work
+subtitle: A spiritual awakening story that might help others. 
 cms_exclude: true
 
 # View.
