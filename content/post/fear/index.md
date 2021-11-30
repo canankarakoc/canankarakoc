@@ -47,7 +47,7 @@ If you are aware of it now, next time you can identify when you are afraid of so
 
 I am paraphrasing a technique that I have learned from somewhere: When you feel it, realize it and say "thank you for warning me my body, but stop controlling me and let me do my stuff". If you step back, you can see other possibilities, also find creative solutions. 
 
-<img src="images/fear.jpg" alt="" width="50%"/>
+<img src="images/fear.jpeg" alt="" width="50%"/>
 
 "Fight or flight".
 
