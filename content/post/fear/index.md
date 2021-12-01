@@ -3,7 +3,7 @@ title: 02 Fear
 subtitle: Just do it
 
 # Summary for listings and search engines
-summary: ...When you feel it, realize it and say "thank you for warning me my body, but stop controlling me and let me do my stuff". If you step back, you can see other possibilities, also find creative solutions....
+summary: ...When you feel it, realize it and say "thank you for warning me my body, but stop controlling me and let me do my stuff". If you step back, you can see other possibilities, also find creative solutions...
 
 # Link this post with a project
 projects: []

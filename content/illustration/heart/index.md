@@ -8,4 +8,4 @@ tags:
 title: Heart
 ---
 
-Breakup hurts. Because the pain of it activates the same part of the brain as physical pain.
+Rejections hurt. Because the pain of heartbreak activates the same part of the brain as physical pain.

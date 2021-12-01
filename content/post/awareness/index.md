@@ -3,7 +3,7 @@ title: 01 Awareness
 subtitle: First step to get yourself together
 
 # Summary for listings and search engines
-summary: Yes, I am a scholar, but also a human. I have been through tough times too. I got my dream “everything” in life, but still managed to sabotage myself. I have been spending hours, days, weeks and months to get my spirituality back, find my peace, and to be a better human. This is the journal of my stupidities, lessons from them and late awareness, but, who knows, I will maybe save one person from eternal suffering...
+summary: Yes, I am a scholar, but also a human. I have been through tough times too. I got my dream “everything” in life, but still managed to sabotage myself. I have been spending hours, days, weeks and months to get my spirituality back, find my peace, and to be a better human...
 
 # Link this post with a project
 projects: []
