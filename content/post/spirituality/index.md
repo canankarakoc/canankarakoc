@@ -3,7 +3,7 @@ title: 06 Sorting through thoughts and emotions
 subtitle: Spirituality can ease anxiety and anger 
 
 # Summary for listings and search engines
-summary: ...You make sense of past, bring your attention to today and improve your vision for future...
+summary: ...Listen to your intuition/your higher self/your spirit. It will help you and guide you. It will speak calm and positive compared to your anxious mind. If you trust it, your mind won't go in thousands of other negative directions...
 
 # Link this post with a project
 projects: []
