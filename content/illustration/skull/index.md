@@ -8,4 +8,4 @@ tags:
 title: End
 ---
 
-Almost all world's oceans damaged by human impact. Only 13% left untouched. 
+Almost all the world's oceans are damaged by human impact. Only 13% left untouched. 

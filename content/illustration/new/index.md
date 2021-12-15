@@ -8,4 +8,4 @@ tags:
 title: New normal
 ---
 
-Stop for a minute and think how has the world changed since pandemic. 
+Stop for a minute and think how has the world changed since the pandemic. 

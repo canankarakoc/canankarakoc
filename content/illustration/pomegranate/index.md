@@ -8,4 +8,4 @@ tags:
 title: Pomegranate 
 ---
 
-Pomegranate was known as the "fruit of dead" arisen from the blood of Anonis in Greek mythology. 
+Pomegranate was known as the "fruit of the dead" arose from the blood of Adonis in Greek mythology. 
