@@ -9,10 +9,10 @@ summary: ...Listen to your intuition/your higher self/your spirit. It will help 
 projects: []
 
 # Date published
-date: "2021-12-04T00:00:00Z"
+date: "2021-12-08T00:00:00Z"
 
 # Date updated
-lastmod: "2021-12-04T00:00:00Z"
+lastmod: "2021-12-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
