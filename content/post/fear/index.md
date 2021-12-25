@@ -37,13 +37,13 @@ categories:
 
 ---
 
-Fear has stopped me from doing a lot of things that I wanted to do. I really believed that fear is my intuition until I learned that it is a stop signal of sympathetic nervous system trying to protect me. It keeps me in my comfort zone, especially when I will do something that I have not done before. 
+Fear has stopped me from doing a lot of things that I wanted to do. I believed that fear is my intuition until I learned that it is a stop signal of sympathetic nervous system trying to protect me. It keeps me in my comfort zone, especially when I will do something that I have not done before. 
 
 It is not always about big things like a career change, planning parenthood, or divorce. Your brain might stop you from doing simple things like a new sport, socializing, giving a presentation, or going to new places. Fear feels real, it is biology, evolution, a physical experience with all senses that makes it difficult to identify. 
 
 "Fear of the unknown".
 
-If you are aware of it now, next time you can identify when you are afraid of something. My strategy was not to ignore it and try to understand where does it come from. My therapist was asking me "What would happen if you do X?". Half of my thoughts were irrational: Things might happen but has one in a million chances. The other half were caused by past traumas. It helped me to think about the real reasons and let them slowly go. 
+If you are aware of it now, next time you can identify when you are afraid of something. My strategy was not to ignore it and try to understand where does it come from. My therapist was asking me "What would happen if you do X?". Half of my thoughts were irrational: Things might happen but has one in a million chance. The other half were caused by past traumas. It helped me to think about the real reasons and let them slowly go. 
 
 I am paraphrasing a technique that I have learned from somewhere: When you feel it, realize it and say "thank you for warning me my body, but stop controlling me and let me do my stuff". If you step back, you can see other possibilities, also find creative solutions. 
 
@@ -53,8 +53,8 @@ I am paraphrasing a technique that I have learned from somewhere: When you feel 
 
 Another technique I have learned is "take a deep breath": Four seconds inhale, eight seconds exhale. Breathing activates the parasympathetic system, which helps you deactivate fight or flight response.
 
-Also, friends, you do not live the moment, if you are afraid of something that might happen in the future even though the probability is high. What you do is sabotage the joy and productivity at that moment. What you simply do is to do everything for that fearful scenario.
-Of course, you should have some fear to keep you on track but balance it. What I am saying is that do not be afraid of stupid things. 
+Also, friends, you do not live the moment, if you are afraid of something that might happen in the future even though the probability is high. What you do is to sabotage the joy and productivity at that moment. Also you act according to that fearful scenario.
+Of course, you should have some fear to keep you on track, but you should balance it. What I am saying is that do not be afraid of stupid things. 
 
 "Just do it, and also stick to it" said my therapist.
 

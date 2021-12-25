@@ -41,15 +41,15 @@ Yes, I am a scholar, but also a human. I have been through tough times too. I go
 
 We think that we respond to situations with emotional reactions. But there is another step in between: Perception. 
 
-We often have similar perceptions to different situations, which are simple patterns. Unfortunately, our brains cannot differentiate positive patterns from negative patterns. Some patterns are so deeply wired in our brains, so we believe that they are true, and how we react is our true selves. Sometimes we develop those patterns from childhood. Maybe our parents reacted the same way, or our past partners, advisers, and friends. We get angry in certain situations, and we think that this is us. Well, this is not us, that is our feelings, and feelings are not us.
+We often have similar perceptions to different situations, which are patterns. Unfortunately, our brains cannot differentiate positive patterns from negative patterns. Some patterns are so deeply wired in our brains, so we believe that they are true, and how we react is our true selves. Sometimes we develop those patterns from childhood. Maybe our parents reacted the same way, or our past partners, advisers, and friends. We get angry in certain situations, and we think that this is us. Well, this is not us, that is our feelings, and feelings are not us.
 
-I did not get this awareness with a light coming from my heart. I knew that there is something wrong, but I seek for help after a terrible heartbreak. Guess what my therapist said: “You are not insane, you are delusional”. Guess what I said: “Am I stupid that I have not realized this”. He said: “X percent people on earth realize after things get out of control”. What does it mean? It is self-sabotage. I am going to talk about it another time. 
+I did not get this awareness with a sudden light coming from my heart. I knew that there is something wrong, but I sought for help after a terrible heartbreak. Guess what my therapist said: “You are not insane, you are delusional”. Guess what I said: “Am I stupid that I have not realized this”. He said: “X percent people on earth realize after things get out of control”. What does it mean? It is self-sabotage. I am going to talk about it another time. 
 
 So, if you are aware of your patterns, you can modify the perspective part of the reaction chain and choose how to respond. Of course, you will not be a better person after you realize what your negative patterns are. Your brain will trick you to go back to your old patterns. Why? First, if you are reading this, stop thinking that your mind is right. It just tries to protect you from danger. What is the first reaction that would protect your lizard brain? Anger. 
 
 “What gets fired gets wired”.
 
-You must practice a lot to rewire your brain. One example: What would you do if it starts raining while you are trying to go somewhere? My old self would be extremely frustrated. Now I take a breath and think that I cannot control the wetter! Also, I am not going to die if I get wet. I try to think about the life that rain gives to nature. It is still science, friends, it is neuroplasticity, so believe me, you can change it in time. 
+You must practice a lot to rewire your brain. One example: What would you do if it starts raining while you are trying to go somewhere? My old self would be extremely frustrated. Now I take a breath and think that I cannot control the weather! Also, I am not going to die if I get wet. I try to think about the life that rain gives to nature. It is still science, friends, it is neuroplasticity, so believe me, you can change it in time. 
 
 Take a deep breath. 
 
