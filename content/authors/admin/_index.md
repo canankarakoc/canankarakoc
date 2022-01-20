@@ -54,6 +54,6 @@ I am broadly interested in eco-evolutionary dynamics of communities, and how the
 
 I like to combine these tiny bits of amazing biology with eco-evolutionary theories to understand -and hopefully predict, how time and changes shape genes, populations, communities, and ecosystems. 
 
-Lately, I found myself nature, life and death inspired pen&ink drawing and doodling science for kids. I like to read philosophy and ask questions. I am into photography, also playing guitar and singing, poorly. Guess what? After I self-sabotaged myself, I got into spirituality too. Check my blog if you are curious.
+Lately, I found myself nature, life and death inspired pen&ink drawing and doodling science for kids. I like to read philosophy and ask questions. I am into photography, also playing guitar and singing, poorly. Also check my blog on spiritual awakening if you are curious.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
