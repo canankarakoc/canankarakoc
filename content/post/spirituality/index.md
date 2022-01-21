@@ -45,7 +45,7 @@ Believe me, we can't be bothered if our brain is patient. It doesn't mean that y
 
 Stress is just a response to the things happening, but the worries are unlimited. They can be realistic that is based on past experiences or unrealistic that are worst-case scenarios. They're the dark smoke in our lungs. To exhale them, we need to slow down our minds and observe where they come from. You just have to find the roots and triggers and overwrite them. Yes, the root is often childhood, genetics, or the social environment we were exposed to.
 
-<img src="images/love.jpeg" alt="" width="50%"/>
+<img src="images/willingness.jpeg" alt="" width="50%"/>
 
 Anger is dangerous, often to the close ones. "It takes a spark to start a forest fire". You can destroy years-long relationships in five minutes. Isn't it self-sabotage? I think we have to acknowledge that anger not only harms others but also ourselves. It consumes a lot of energy that prevents manifesting positive things in our lives or showing our real potential. 
 
@@ -59,5 +59,4 @@ Before the post gets too long, I want you to know that it is not permanent. All 
 
 How can you navigate your emotions when you're grieving? Well, that is not easy, but the old fearful system also doesn't help you. Accept that you're responsible for your thoughts, stop blaming things and people, and let it go. Listen to your intuition/your higher self/your spirit. It will help you and guide you. It will speak calm and positive compared to your anxious mind. If you trust it, your mind won't go in thousands of other negative directions. If you feel alone, you're not. You're part of the universe. We are the ones. Be open to healing and meditate. 
 
-<img src="images/willingness.jpeg" alt="" width="50%"/>
 

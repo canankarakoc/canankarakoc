@@ -52,6 +52,8 @@ I almost cried when my therapist said that "look, you needed a parent figure to 
 
 Our Buddhist nun said to me (and to my journey friend) that she is so happy to see that we get things, analyze and apply in our lives. I thought I was stuck in this life, body, and mind, and I can never change them. Now, I am trying not to be attached to the past or present moment, I am trying to be okay with changes, and do my best to go with the flow. 
 
+<img src="images/swords.jpeg" alt="" width="50%"/>
+
 Things do not exist unless we name them. Hate, anger, frustration, and irritation towards things or people are our narratives. A stranger can be a friend if you want to. Foes can be also your friends if you change your perspectives. It is of course not about sticking to an abusive partnership/friendship but filling your heart with love and kindness. 
 
 Sometimes we are less kind to our close ones, even to ourselves. We get lost in small impermanent daily routines and forget that all are changing every minute. The only thing we can control is our change, so we can go along with the change harmoniously. The first step is to observe our thoughts, actions, and perspectives, and be kind to ourselves. If we love ourselves, we can love the world. 
