@@ -16,7 +16,7 @@ authors:
 
 
 date: "2018-09-01T00:00:00Z"
-doi: "https://doi.org/10.3390/microorganisms9040840"
+doi: "https://doi.org/10.1038/s41598-018-21219-x"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
