@@ -33,7 +33,7 @@ authors:
 
 
 date: "2021-09-01T00:00:00Z"
-doi: "https://doi.org/0.1111/ele.13760"
+doi: "10.1111/ele.13760"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -46,9 +46,13 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Ecology Letters*
-#publication_short: 
 
-#abstract:
+publication_short: 
+
+abstract: 
+
+Ecological stability refers to a family of concepts used to describe how systems of interacting species vary through time and respond to disturbances. Because observed ecological stability depends on sampling scales and environmental context, it is notoriously difficult to compare measurements across sites and systems. Here, we apply stochastic dynamical systems theory to derive general statistical scaling relationships across time, space, and ecological level of organisation for three fundamental stability aspects: resilience, resistance, and invariance. These relationships can be calibrated using random or representative samples measured at individual scales, and projected to predict average stability at other scales across a wide range of contexts. Moreover deviations between observed vs. extrapolated scaling relationships can reveal information about unobserved heterogeneity across time, space, or species. We anticipate that these methods will be useful for cross-study synthesis of stability data, extrapolating measurements to unobserved scales, and identifying underlying causes and consequences of heterogeneity.
+
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -94,12 +98,3 @@ image:
 #slides: example
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and #images](https://wowchemy.com/docs/writing-markdown-latex/).

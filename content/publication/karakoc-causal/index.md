@@ -30,7 +30,9 @@ publication_types: ["2"]
 publication: In *Ecology Letters*
 #publication_short: 
 
-#abstract:
+abstract:
+
+Although numerous studies show that communities are jointly influenced by predation and competitive interactions, few have resolved how temporal variability in these interactions influences community assembly and stability. Here, we addressed this challenge in experimental microbial microcosms by employing empirical dynamic modelling tools to: (1) detect causal interactions between prey species in the absence and presence of a predator; (2) quantify the time-varying strength of these interactions and (3) explore stability in the resulting communities. Our findings show that predators boost the number of causal interactions among community members, and lead to reduced dynamic stability, but higher coexistence among prey species. These results correspond to time-varying changes in species interactions, including emergence of morphological characteristics that appeared to reduce predation, and indirectly facilitate growth of predator-susceptible species. Jointly, our findings suggest that careful consideration of both context and time may be necessary to predict and explain outcomes in multi-trophic systems.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -75,13 +77,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import #publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and #images](https://wowchemy.com/docs/writing-markdown-latex/).
