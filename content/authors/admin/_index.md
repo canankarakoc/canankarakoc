@@ -52,6 +52,6 @@ I am a postdoctoral scholar in [Lennon Lab](https://microbes.sitehost.iu.edu/) a
 
 I am broadly interested in eco-evolutionary dynamics of communities, and how they persist and maintain coexistence in space and time. I have a soft spot for microbes -anything smaller than 1mm. I think they are amazing minute-like-organisms and allow us to see evolution in action within days. I like to combine these tiny bits of amazing biology with eco-evolutionary theories to understand -and hopefully predict, how time and changes shape genes, populations, communities, and ecosystems. 
 
-Lately, I found myself drawing, illustrating and doodling a lot. Here are some nature inspired ones, you can check my social media for more. I like to read philosophy and ask questions. I am into photography, also playing guitar and singing, poorly. I am blogging about spirituality too if you're curious.
+I like drawing, illustrating and doodling. Here are some nature inspired ones, you can also check my social media for more. Philosophy, macro photography, playing music, and spirituality are some other stuff I like. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
