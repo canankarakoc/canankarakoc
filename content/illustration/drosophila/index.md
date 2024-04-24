@@ -8,4 +8,4 @@ tags:
 title: Drosophila  
 ---
 
-I drew this for the lab of a collage classmate. 
+I drew this for a collage classmate's lab.

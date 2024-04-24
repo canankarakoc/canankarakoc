@@ -8,4 +8,4 @@ tags:
 title: Self
 ---
 
-My surname means black ram. This was one of the moments that I was worried and anxious and wanted to reflect on myself.   
+My surname means black ram. This was one of the moments when I was worried and anxious and wanted to reflect on myself.   

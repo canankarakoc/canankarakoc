@@ -8,4 +8,4 @@ tags:
 title: Ant  
 ---
 
-An ant that I drew for a great colleague and friend Adam. 
+An ant that I drew for a great mentor and friend, Adam. 

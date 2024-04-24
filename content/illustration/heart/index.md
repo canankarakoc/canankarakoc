@@ -8,4 +8,4 @@ tags:
 title: Heart
 ---
 
-Rejections hurt. Because the pain of heartbreak activates the same part of the brain as physical pain.
+Rejections hurt because the pain of heartbreak activates the same part of the brain as physical pain.

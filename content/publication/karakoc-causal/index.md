@@ -6,7 +6,7 @@ title: "Diversity and coexistence are inﬂuenced by time-dependent species inte
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Adam Thomas Clark
+- Adam T. Clark
 - Antonis Chatzinotas
 
 # Author notes (optional)
