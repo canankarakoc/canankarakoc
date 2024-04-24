@@ -8,8 +8,6 @@ tags:
 title: Microbial dynamics, infections, and evolutionary medicine  
 ---
 
-## Evolutionary medicine 
-
 Evolutionary medicine is an emerging discipline that employs eco-evolutionary theories alongside analyses of historical and contemporary patient data. Tracing the evolutionary origins of human health and diseases gives us profound insights into the genetic and physiological mechanisms underlying conditions. For instance, understanding how pathogens evolve and spread within hospital environments can inform strategies for preventing and treating sepsis, a life-threatening condition often triggered by infections. This interdisciplinary approach sheds light on the origins of health problems, and guides personalized treatment plans and infection control measures. Furthermore, evolutionary medicine enables us to anticipate future challenges, such as the rise of drug-resistant pathogens, and develop proactive strategies to mitigate their impact on human health. 
 
 ## Managing infections and antibiotic resistance 

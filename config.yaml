@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: C. Karakoç # Website name
-baseurl: 'https://canankarakoc.netlify.app/' # Website URL
-copyright: '© C. Karakoç (2021)' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://www.canankarakoc.com/' # Website URL
+copyright: '© C. Karakoç (2024)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
