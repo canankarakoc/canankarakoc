@@ -5,7 +5,7 @@ image:
   focal_point: Smart
 summary: 
 tags:
-title: Friend  
+title: Endless learning  
 ---
 
-I drew this for a sister, Emily, and her bunny friend. 
+There are too many things that I don't know...  
