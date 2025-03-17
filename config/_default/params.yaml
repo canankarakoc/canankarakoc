@@ -41,9 +41,9 @@ address:
 #appointment_url:
 
 contact_links:
-  - icon: bluesky
+  - icon: twitter
     icon_pack: fab
-    name: @ckarakoc.bsky.social
+    name: ckarakoc.bsky.social
     link: 'https://bsky.app/profile/ckarakoc.bsky.social'
   - icon: instagram
     icon_pack: fab
