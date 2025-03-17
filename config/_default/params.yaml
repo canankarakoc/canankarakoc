@@ -41,10 +41,10 @@ address:
 #appointment_url:
 
 contact_links:
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    name: planetmicroeco
-    link: 'https://twitter.com/planetmicroeco'
+    name: @ckarakoc.bsky.social
+    link: 'https://bsky.app/profile/ckarakoc.bsky.social'
   - icon: instagram
     icon_pack: fab
     name: belovedblackram

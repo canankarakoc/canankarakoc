@@ -25,10 +25,10 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+  icon: bluesky
   icon_pack: fab
-  label: Follow me on X
-  link: https://twitter.com/planetmicroeco
+  label: Follow me on Bluesky
+  link: https://bsky.app/profile/ckarakoc.bsky.social
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=BtBhIX4AAAAJ&hl=en&inst=13098912254855678857
