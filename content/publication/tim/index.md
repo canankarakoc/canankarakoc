@@ -11,8 +11,8 @@ authors:
 - Sam P. Brown
 
 # Author notes (optional)
-# author_notes:
-- Shared co-first authorship
+author_notes:
+  - Shared co-first authorship
 
 
 date: "2025-04-01T00:00:00Z"
