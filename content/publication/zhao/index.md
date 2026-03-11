@@ -1,39 +1,32 @@
 ---
-title: "General statistical scaling laws for stability in ecological systems"
+title: "Relationships of temperature and biodiversity with stability of natural aquatic food webs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Adam T. Clark
-- Jean-Francois Arnoldi
-- Yuval R. Zelnik
-- György Barabas
-- Dorothee Hodapp
-- admin 
-- Sara König
-- Viktoriia Radchuk
-- Ian Donohue
-- Andreas Huth
-- Claire Jacquet
-- Claire de Mazancourt
-- Andrea Mentges
-- Dorian Nothaaß
-- Lauren G. Shoemaker
-- Franziska Taubert
-- Thorsten Wiegand
+- Qinghua Zhao
+- Paul J. Van den Brink
+- Chi Xu
 - Shaopeng Wang
-- Jonathan M. Chase
-- Michel Loreau
-- Stanley Harpole
+- Adam T. Clark
+- admin
+- George Sugihara
+- Claire E. Widdicombe
+- Angus Atkinson
+- Shin-ichiro S. Matsuzaki
+- Ryuichiro Shinohara
+- Shuiqing He
+- Yingying. X. G. Wang
+- Frederik De Laender 
 
 # Author notes (optional)
 # author_notes:
 #- "Equal contribution"
 
 
-date: "2021-09-01T00:00:00Z"
-doi: "10.1111/ele.13760"
+date: "2023-05-01T00:00:00Z"
+doi: "doi.org/10.1038/s41467-023-38977-6"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -45,13 +38,11 @@ doi: "10.1111/ele.13760"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Ecology Letters*
+publication: "In *Nature Communications*"
 
 publication_short: 
 
-abstract: 
-
-Ecological stability refers to a family of concepts used to describe how systems of interacting species vary through time and respond to disturbances. Because observed ecological stability depends on sampling scales and environmental context, it is notoriously difficult to compare measurements across sites and systems. Here, we apply stochastic dynamical systems theory to derive general statistical scaling relationships across time, space, and ecological level of organisation for three fundamental stability aspects: resilience, resistance, and invariance. These relationships can be calibrated using random or representative samples measured at individual scales, and projected to predict average stability at other scales across a wide range of contexts. Moreover deviations between observed vs. extrapolated scaling relationships can reveal information about unobserved heterogeneity across time, space, or species. We anticipate that these methods will be useful for cross-study synthesis of stability data, extrapolating measurements to unobserved scales, and identifying underlying causes and consequences of heterogeneity.
+abstract: "Temperature and biodiversity changes occur in concert, but their joint effects on ecological stability of natural food webs are unknown. Here, we assess these relationships in 19 planktonic food webs. We estimate stability as structural stability (using the volume contraction rate) and temporal stability (using the temporal variation of species abundances). Warmer temperatures were associated with lower structural and temporal stability, while biodiversity had no consistent effects on either stability property. While species richness was associated with lower structural stability and higher temporal stability, Simpson diversity was associated with higher temporal stability. The responses of structural stability were linked to disproportionate contributions from two trophic groups (predators and consumers), while the responses of temporal stability were linked both to synchrony of all species within the food web and distinctive contributions from three trophic groups (predators, consumers, and producers). Our results suggest that, in natural ecosystems, warmer temperatures can erode ecosystem stability, while biodiversity changes may not have consistent effects."
 
 
 # Summary. An optional shortened abstract.

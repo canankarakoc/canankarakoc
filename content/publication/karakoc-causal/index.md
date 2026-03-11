@@ -27,12 +27,10 @@ doi: " https://doi.org/10.1111/ele.13500"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Ecology Letters*
+publication: "In *Ecology Letters*"
 #publication_short: 
 
-abstract:
-
-Although numerous studies show that communities are jointly influenced by predation and competitive interactions, few have resolved how temporal variability in these interactions influences community assembly and stability. Here, we addressed this challenge in experimental microbial microcosms by employing empirical dynamic modelling tools to: (1) detect causal interactions between prey species in the absence and presence of a predator; (2) quantify the time-varying strength of these interactions and (3) explore stability in the resulting communities. Our findings show that predators boost the number of causal interactions among community members, and lead to reduced dynamic stability, but higher coexistence among prey species. These results correspond to time-varying changes in species interactions, including emergence of morphological characteristics that appeared to reduce predation, and indirectly facilitate growth of predator-susceptible species. Jointly, our findings suggest that careful consideration of both context and time may be necessary to predict and explain outcomes in multi-trophic systems.
+abstract: "Although numerous studies show that communities are jointly influenced by predation and competitive interactions, few have resolved how temporal variability in these interactions influences community assembly and stability. Here, we addressed this challenge in experimental microbial microcosms by employing empirical dynamic modelling tools to: (1) detect causal interactions between prey species in the absence and presence of a predator; (2) quantify the time-varying strength of these interactions and (3) explore stability in the resulting communities. Our findings show that predators boost the number of causal interactions among community members, and lead to reduced dynamic stability, but higher coexistence among prey species. These results correspond to time-varying changes in species interactions, including emergence of morphological characteristics that appeared to reduce predation, and indirectly facilitate growth of predator-susceptible species. Jointly, our findings suggest that careful consideration of both context and time may be necessary to predict and explain outcomes in multi-trophic systems."
 
 # Summary. An optional shortened abstract.
 #summary:
