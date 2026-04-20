@@ -45,10 +45,12 @@ superuser: true
 title: Canan Karakoç
 ---
 
-I am a research scholar in [Sam Brown Lab](https://brownlab.biology.gatech.edu/) at the Georgia Institute of Technology. I am lucky that I had the chance to work with [Jay Lennon](https://lennonlab.github.io/) for the past couple of years at Indiana University Bloomington. 
+I am a research scholar in [Sam Brown Lab](https://brownlab.biology.gatech.edu/) at the Georgia Institute of Technology. Previously, I worked with [Jay Lennon](https://lennonlab.github.io/) at Indiana University Bloomington, where I spent several years developing my research interests. 
 
-I am broadly interested in eco-evolutionary dynamics of communities and how they persist and maintain coexistence in space and time. I have a soft spot for microbes -anything smaller than 1mm. They are amazing minute-like organisms and allow us to see evolution in action within days. I like to combine these tiny bits of amazing biology with eco-evolutionary theories to understand -and hopefully predict, how time and changes shape genes, populations, communities, and ecosystems. 
+My work centers on eco-evolutionary dynamics—how communities persist, adapt, and maintain coexistence across space and time. I am particularly drawn to microbes (anything smaller than 1 mm): they offer a unique window into evolution unfolding in real time. By combining microbial systems with eco-evolutionary theory, I aim to understand—and ultimately predict—how environmental change shapes genes, populations, communities, and ecosystems.
 
-I like drawing, illustrating, and doodling. Here are some nature-inspired ones; you can also check my social media for more. Philosophy of science, macro photography, crafting, and playing music are some other stuff I like.
+I am currently supported by a [Cystic Fibrosis Foundation](https://www.cff.org/) Postdoctoral Fellowship, where I study the evolution of antibiotic resistance in <em>Pseudomonas aeruginosa</em>, a common pathogen in individuals with cystic fibrosis. More broadly, I am interested in how resistance evolution influences microbial community ecology, and how these insights can inform more effective treatment strategies.
+
+Outside the lab, I enjoy drawing, illustrating, and doodling, often inspired by nature. I also spend time exploring philosophy of science, macro photography, crafting, and playing music.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
