@@ -207,3 +207,14 @@ a:hover { text-decoration-color: var(--accent); }
 }
 .pub-status { font-size: .75rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); background: var(--accent-soft); border-radius: 999px; padding: .05rem .55rem; margin-left: .3rem; white-space: nowrap; }
 .topic-grid > p { display: contents; }
+
+// CV page lists: date on the left, details on the right
+.cv-list ul { list-style: none; padding-left: 0; margin: 1rem 0 0; }
+.cv-list li { position: relative; padding: .6rem 0 .6rem 7.5rem; border-bottom: 1px solid var(--rule); line-height: 1.5; }
+.cv-list li:last-child { border-bottom: 0; }
+.cv-list .when { position: absolute; left: 0; top: .7rem; width: 6.8rem; color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
+.cv-list .where { display: block; color: var(--muted); font-size: .95rem; }
+@media (max-width: 575.98px) {
+  .cv-list li { padding-left: 0; }
+  .cv-list .when { position: static; display: block; width: auto; }
+}

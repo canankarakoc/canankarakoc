@@ -1,0 +1,96 @@
+---
+title: "CV"
+subtitle: "Highlights from my CV. The full version also lists earlier talks, posters, workshops and skills."
+toc: true
+toc-title: "On this page"
+---
+
+[<i class="bi bi-file-earmark-text"></i> Full CV (PDF)](media/CV.pdf){.btn-pill .solid target="_blank"}
+
+## Positions
+
+::: {.cv-list}
+- [2024–now]{.when} **Postdoctoral researcher**, [Brown Lab](https://brownlab.biology.gatech.edu/), Center for Microbial Dynamics and Infection, Georgia Institute of Technology, Atlanta, GA [Microbial dynamics and infection, host–pathogen interactions, disease dynamics, antimicrobial resistance.]{.where}
+- [2021–2024]{.when} **Postdoctoral researcher**, [Lennon Lab](https://lennonlab.github.io/), Department of Biology, Indiana University, Bloomington, IN [Microbial ecology and evolution, bioenergetics, dormancy. GEMS (Genomics and Eco-evolution of Multi-scale Symbioses) trainee.]{.where}
+- [2019–2021]{.when} **Postdoctoral researcher**, Helmholtz Centre for Environmental Research (UFZ) and German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany [Evolutionary ecology, species interactions, fluctuations, antimicrobial resistance. yDiv trainee.]{.where}
+- [2005–2018]{.when} **Earlier research positions** [Research assistant at UFZ and iDiv (Leipzig), University of Thessaly (Greece), University of Bayreuth and Cumhuriyet University (Turkey); internships at the Max Planck Institute for Developmental Biology (Tübingen) and the Technical University of Munich.]{.where}
+:::
+
+## Education
+
+::: {.cv-list}
+- [2013–2019]{.when} **Ph.D. in Biology**, *magna cum laude*, University of Leipzig, HIGRADE Graduate School, Germany [Thesis: [Context dependency of community dynamics: predator–prey interactions under ecological disturbances](https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-341500)]{.where}
+- [2009–2012]{.when} **M.Sc. in Global Change Ecology**, University of Bayreuth, Elite Network Bavaria, Germany
+- [2005–2008]{.when} **M.Sc. in Biology**, Cumhuriyet University, Sivas, Turkey
+- [2000–2004]{.when} **B.Sc. in Biology** (minor: Molecular Biology), Akdeniz University, Antalya, Turkey
+:::
+
+## Funding and awards
+
+::: {.cv-list}
+- [2025]{.when} **Postdoctoral Research Fellowship, Cystic Fibrosis Foundation** [Eco-evolutionary processes govern clinical responses to antibiotics and the failure of susceptibility testing in people with CF.]{.where}
+- [Earlier]{.when} iDiv FlexPool funding for postdoctoral research · DAAD travel scholarship (two months of research in Greece) · HIGRADE (PhD), yDiv (PhD) and GEMS (postdoc) traineeships · Swedish Royal Academy of Sciences travel award · Elite Network Bavaria support for internships, courses, conferences and research
+:::
+
+## Talks and posters
+
+::: {.cv-list}
+- [2026]{.when} **Invited talk.** Antibiotic-driven resistance in *Pseudomonas aeruginosa* follows nonlinear, state-dependent dynamics in people with cystic fibrosis. [North American Cystic Fibrosis Conference, Atlanta, GA]{.where}
+- [2026]{.when} **Invited talk.** Rethinking resistance: signal, noise and heterogeneity in antimicrobial susceptibility testing of cystic fibrosis *Pseudomonas aeruginosa*. [Cystic Fibrosis Foundation Research Conference, Colorado Springs, CO]{.where}
+- [2026]{.when} **Poster.** A multi-method statistical framework for quantifying antibiotic-driven resistance evolution in *Pseudomonas aeruginosa* among people with cystic fibrosis. [Cystic Fibrosis Foundation Research Conference, Colorado Springs, CO]{.where}
+- [2026]{.when} **Poster.** From patterns to processes: meta-analysis and experiments reveal cumulative damage drives infection-induced mortality. [Ecology and Evolution of Infectious Disease (EEID), Blacksburg, VA]{.where}
+- [2025]{.when} **Talk.** Disentangling host, pathogen, and interaction effects on infection-induced mortality. [Evolution, Athens, GA]{.where}
+- [2025]{.when} **Poster.** Dynamics of death: why and when a host dies during infection. [Gordon Research Conference, Microbial Population Biology, Andover, NH]{.where}
+- [2023]{.when} **Talk.** Evolution of complex traits through the lens of bioenergetics. [ESA Annual Meeting, Portland, OR]{.where}
+- [2023]{.when} **Poster.** Evolution of survival through the lens of bioenergetics. [AbGradCon, San Diego, CA]{.where}
+:::
+
+Earlier talks and posters (2014–2021) are in the [full CV](media/CV.pdf).
+
+## Teaching
+
+::: {.cv-list}
+- [2025, 2026]{.when} **BIOL 3400: Introduction to Mathematical Biology** (undergraduate), Georgia Institute of Technology
+- [2021–2023]{.when} **Quantitative Biodiversity** (graduate), Indiana University
+- [2022–2023]{.when} **Practical research training** for microbiology graduate rotation students and biology undergraduates, Indiana University
+- [2020–2021]{.when} **Literature seminar: Microbial Ecology**, Leipzig University
+- [2018–2021]{.when} **Practical training**: measuring microbial diversity, experimental evolution, R for data science, Leipzig University
+- [2005–2008]{.when} **Practical courses** in general biology, genetics, biochemistry, animal physiology, microbiology and molecular cell biology, Cumhuriyet University
+:::
+
+Activities, worksheets and R scripts from my courses are on [GitHub](https://github.com/canankarakoc/teaching-materials).
+
+## Mentoring
+
+::: {.cv-list}
+- [2026–now]{.when} Undergraduate research thesis: antimicrobial resistance in people with cystic fibrosis [Georgia Institute of Technology]{.where}
+- [2025–now]{.when} Undergraduate lab training and research credit (three students): microbiology, biochemistry, experimental evolution [Georgia Institute of Technology]{.where}
+- [2025–2026]{.when} M.Sc. Bioinformatics: evolutionary game theory models of host–pathogen coevolution [Georgia Institute of Technology]{.where}
+- [2025]{.when} Undergraduate summer research: wet-lab methods in microbial ecology and evolution [Georgia Institute of Technology]{.where}
+- [2024–2025]{.when} Undergraduate research thesis: accelerating mortality driven by pathogen burden and host damage [Georgia Institute of Technology]{.where}
+- [2024–2025]{.when} Undergraduate research: biofilm formation and antimicrobial activity of synthetic polymers [Georgia Institute of Technology]{.where}
+- [2023–2024]{.when} B.Sc. research: microcosms and experimental evolution [Indiana University]{.where}
+- [2023]{.when} Summer research: microbial division of labor under ecological disturbances [Indiana University Summer STEM Research Program]{.where}
+- [2022]{.when} Summer internship: stability of metabolic exchange and dormancy [Student from Middle East Technical University]{.where}
+- [2020–2021]{.when} Two B.Sc. projects: environmental noise and antibiotic and phage resistance evolution; fitness costs of antibiotic resistance [Leipzig University]{.where}
+- [2018–2020]{.when} Internship and M.Sc. thesis: evolutionary rescue in complex communities [Leipzig University]{.where}
+- [2014]{.when} Internship: predator–prey interactions under disturbances [Student from the University of Kassel]{.where}
+:::
+
+I have also mentored PhD projects at Oregon State University, the University of Toulouse and Leipzig University, a B.Sc. project at Leipzig University, and a high-school research project (OPRFHS, Chicago).
+
+## Service and leadership
+
+::: {.cv-list}
+- [2026–now]{.when} Faculty Liaison, and Belonging and Outreach Teams, Georgia Tech Postdoctoral Association
+- [2026–now]{.when} Judge, Georgia Tech Undergraduate Research Spring Symposium
+- [2025–now]{.when} Proposal reviewer, Georgia Tech Undergraduate Research Opportunities salary awards
+- [2024–now]{.when} Reviewer, Ecological Society of America Early Career Paper Award
+- [2023]{.when} Grant proposal reviewer, National Science Foundation, Division of Environmental Biology
+- [2023]{.when} Organizer, symposium "Incorporating dormancy and rarity to predict community dynamics and stability under environmental change", ESA Annual Meeting, Portland, OR
+- [2022–2024]{.when} Career Development Board, Indiana University Postdoc Association
+:::
+
+## Languages
+
+English and German (fluent), Turkish (native).

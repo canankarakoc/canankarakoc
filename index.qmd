@@ -58,8 +58,6 @@ My work centers on eco-evolutionary dynamics—how communities persist, adapt, a
 
 I am currently supported by a [Cystic Fibrosis Foundation](https://www.cff.org/) Postdoctoral Fellowship, where I study the evolution of antibiotic resistance in *Pseudomonas aeruginosa*, a common pathogen in individuals with cystic fibrosis. More broadly, I am interested in how resistance evolution influences microbial community ecology, and how these insights can inform more effective treatment strategies.
 
-Outside the lab, I enjoy drawing, illustrating, and doodling, often inspired by nature. I also spend time exploring philosophy of science, macro photography, crafting, and playing music.
-
 ## Research
 
 ::: {.topic-grid}
