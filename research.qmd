@@ -43,7 +43,7 @@ Across diverse host–pathogen systems, we found that the risk of death keeps ri
 
 Next, I will manipulate host nutrition in *Galleria* to test whether energy limitation constrains how hosts respond to infection. Outside infection experiments, I ran the time-series analysis for a colleague's wastewater surveillance study, testing whether virus loads in sewage lead reported cases.
 
-**Papers:** [mSphere 2025](https://doi.org/10.1128/msphere.00953-24) · *Proceedings B* (under review) · **Code:** [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) · [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus)
+**Papers:** [mSphere 2025](https://doi.org/10.1128/msphere.00953-24) · *Proceedings B* (under review) · **Code:** [metaAnalysis](https://github.com/canankarakoc/metaAnalysis) · [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) · [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus)
 :::
 ::::
 
@@ -65,6 +65,8 @@ In ongoing experiments, *Escherichia coli* evolves with its phages and competito
 Noise is also a property of data. As PI of a [Cystic Fibrosis Foundation](https://www.cff.org/) fellowship, I analyze longitudinal records of routine antibiotic-susceptibility tests of *P. aeruginosa* from people with cystic fibrosis, treating each test as a noisy sample of the resistance in the patient. Bayesian mixed models, Markov models of transitions between resistance states and empirical dynamic modeling indicate that resistance follows nonlinear, state-dependent dynamics.
 
 Across projects, I use empirical dynamic modeling to measure predictability and infer causal links from time series, and state-space models to separate real fluctuations from measurement error ([Ecosphere 2022](https://doi.org/10.1002/ecs2.4328)).
+
+**Code:** [noise-host-phage](https://github.com/canankarakoc/noise-host-phage) · [longitudinal_AST](https://github.com/canankarakoc/longitudinal_AST)
 :::
 ::::
 
