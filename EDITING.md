@@ -13,7 +13,8 @@ directly on GitHub (pencil icon) or locally in RStudio.
 | Publications                  | `publications.yml`                             |
 | Science outreach              | `outreach.qmd`                                 |
 | Illustrations                 | `illustrations.yml` + `images/illustrations/`  |
-| CV                            | replace `media/CV.pdf` (same name)             |
+| CV (PDF)                      | replace `media/CV.pdf` (same name)             |
+| CV page: talks, teaching, …   | `cv.qmd`                                       |
 | Menu, footer links, site name | `_quarto.yml`                                  |
 | Colours and fonts             | `styles/theme.scss` (dark mode: `styles/dark.scss`) |
 | Photos and figures            | `images/`                                      |

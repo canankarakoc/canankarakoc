@@ -34,8 +34,7 @@ website:
       - text: Illustrations
         href: illustrations.qmd
       - text: CV
-        href: media/CV.pdf
-        target: _blank
+        href: cv.qmd
   page-footer:
     left: "© 2026 Canan Karakoç"
     right:
