@@ -7,9 +7,11 @@ subtitle: "How do populations persist and adapt when energy is scarce and the en
 Much of microbial life is short of energy most of the time, in environments that change in ways that are hard to anticipate. I study how populations and communities persist and adapt under these conditions, with experiments in bacteria, phages, protists and the insect *Galleria mellonella*, genome sequencing, time-series analysis and theory.
 :::
 
+![Which strategy is favored depends on how much energy is available and how predictable the environment is.](images/research/overview-strategies.png){fig-alt="Regime plot: with little energy, dormancy and persistence; with more energy, plasticity and bet-hedging when the environment is unpredictable and genetic adaptation when it is predictable" width="85%"}
+
 :::: {.feature #energy}
 ::: {.feature-img}
-![](images/research/dormancy.jpg){fig-alt="Slide on Schrödinger's What is Life? and the arrow from life to death"}
+![](images/research/energy-states.png){fig-alt="As energy runs out, a clonal population shifts from active cells to persisters and dormant cells"}
 :::
 ::: {.feature-body}
 []{#dormancy}
@@ -28,7 +30,7 @@ Next, I want to know what drives cells into each state and what that means for e
 
 :::: {.feature #predictability}
 ::: {.feature-img}
-![](images/research/infection.jpg){fig-alt="Anatomical drawing of human lungs"}
+![](images/research/infection-connections.png){fig-alt="Pathogen and host response affect each other; both cause host damage, which drives a risk of death that rises over time; energy feeds into the host response"}
 :::
 ::: {.feature-body}
 []{#infection}
@@ -47,7 +49,7 @@ Next, I will manipulate host nutrition in *Galleria* to test whether energy limi
 
 :::: {.feature #noise}
 ::: {.feature-img}
-![](images/research/ecoevo.jpg){fig-alt="Diagram of a focal bacterial species with a phage predator, a competitor species and antibiotic scenarios"}
+![](images/research/noise-regimes.png){fig-alt="Two antibiotic regimes with the same mean and variance, one unpredictable and one predictable"}
 :::
 ::: {.feature-body}
 []{#ecoevo}
@@ -68,14 +70,14 @@ Across projects, I use empirical dynamic modeling to measure predictability and 
 
 :::: {.feature #community}
 ::: {.feature-img}
-![](images/research/community.jpg){fig-alt="Diagram of a predator, prey species and a common resource under disturbance"}
+![](images/research/community-insurance.png){fig-alt="Two species fluctuate out of step while their total stays nearly constant"}
 :::
 ::: {.feature-body}
 ## Community dynamics and stability
 
 My PhD at [UFZ](https://www.ufz.de/index.php?en=33573) and [iDiv](https://www.idiv.de/en/index.html) asked how predator–prey interactions shape communities under disturbance, using microcosms of bacterial prey and the protist predator *Tetrahymena*. I examined how the system recovers from press and pulse disturbances and how predation and disturbance together shape prey communities, and showed that interaction strengths shift over time in ways that alter which species coexist.
 
-Since then, with colleagues, I have helped develop ways to measure stability in systems without static equilibria and a practical guide to characterizing coexistence, and tested how temperature and biodiversity relate to the stability of natural aquatic food webs. I have also worked in more natural settings: freshwater microbial communities under nutrient enrichment, a field experiment on climate extremes in grassland and heath, and greenhouse experiments in which drought changed how mycorrhizal fungal diversity and barley genotype diversity interact. For colleagues at UFZ, I reanalyzed experiments on plasmid transfer between bacteria along fungal hyphae.
+Since then, with colleagues, I have helped develop ways to measure stability in systems without static equilibria and a practical guide to characterizing coexistence, and tested how temperature and biodiversity relate to the stability of natural aquatic food webs. I have also worked in more natural settings: freshwater microbial communities under nutrient enrichment, a field experiment on climate extremes in grassland and heath, and greenhouse experiments in which drought changed how mycorrhizal fungal diversity and barley genotype diversity interact.
 
 These projects share a question I now ask across levels of organization: when the parts of a system respond differently to change, does that response diversity keep the whole stable?
 
@@ -85,6 +87,6 @@ These projects share a question I now ask across levels of organization: when th
 ![](images/research/community-pots.jpg){fig-alt="Barley pots in a greenhouse"}
 :::
 
-**Papers:** [BMC Ecology 2017](https://doi.org/10.1186/s12898-017-0123-2) · [Scientific Reports 2018](https://doi.org/10.1038/s41598-018-21219-x) · [Scientific Reports 2019](https://doi.org/10.1038/s41598-019-45702-1) · [Ecology Letters 2020](https://doi.org/10.1111/ele.13500) · [Ecology Letters 2021](https://doi.org/10.1111/ele.13760) · [Ecosphere 2022](https://doi.org/10.1002/ecs2.4328) · [Nature Communications 2023](https://doi.org/10.1038/s41467-023-38977-6) · [Biological Reviews 2026](https://doi.org/10.1111/brv.70079) · **Code:** [fungal-highways-reanalysis](https://github.com/canankarakoc/fungal-highways-reanalysis)
+**Papers:** [BMC Ecology 2017](https://doi.org/10.1186/s12898-017-0123-2) · [Scientific Reports 2018](https://doi.org/10.1038/s41598-018-21219-x) · [Scientific Reports 2019](https://doi.org/10.1038/s41598-019-45702-1) · [Ecology Letters 2020](https://doi.org/10.1111/ele.13500) · [Ecology Letters 2021](https://doi.org/10.1111/ele.13760) · [Ecosphere 2022](https://doi.org/10.1002/ecs2.4328) · [Nature Communications 2023](https://doi.org/10.1038/s41467-023-38977-6) · [Biological Reviews 2026](https://doi.org/10.1111/brv.70079)
 :::
 ::::

@@ -61,10 +61,10 @@ I am currently supported by a [Cystic Fibrosis Foundation](https://www.cff.org/)
 ## Research
 
 ::: {.topic-grid}
-[![](images/research/dormancy.jpg){.nolightbox fig-alt=""}[Energy: what it costs to persist]{.topic-title}](research.qmd#energy){.topic-card}
-[![](images/research/infection.jpg){.nolightbox fig-alt=""}[Predictability: forecasting infection]{.topic-title}](research.qmd#predictability){.topic-card}
-[![](images/research/ecoevo.jpg){.nolightbox fig-alt=""}[Noise: fluctuating environments and noisy data]{.topic-title}](research.qmd#noise){.topic-card}
-[![](images/research/community.jpg){.nolightbox fig-alt=""}[Community dynamics and stability]{.topic-title}](research.qmd#community){.topic-card}
+[![](images/research/energy-states.png){.nolightbox fig-alt=""}[Energy: what it costs to persist]{.topic-title}](research.qmd#energy){.topic-card}
+[![](images/research/infection-outcomes.png){.nolightbox fig-alt=""}[Predictability: forecasting infection]{.topic-title}](research.qmd#predictability){.topic-card}
+[![](images/research/noise-regimes.png){.nolightbox fig-alt=""}[Noise: fluctuating environments and noisy data]{.topic-title}](research.qmd#noise){.topic-card}
+[![](images/research/community-insurance.png){.nolightbox fig-alt=""}[Community dynamics and stability]{.topic-title}](research.qmd#community){.topic-card}
 :::
 
 ## Recent publications
