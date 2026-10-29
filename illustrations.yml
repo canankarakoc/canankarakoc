@@ -1,0 +1,116 @@
+# ILLUSTRATIONS
+# =============
+# To add a drawing:
+#   1. Put the image file in images/illustrations/ (any size; jpg or png).
+#   2. Add an entry below. Entries appear in this order, so put new ones on top.
+#      The first six also appear on the home page.
+#
+#   file   the file name in images/illustrations/
+#   title  shown under the picture
+#   text   optional story, shown when someone clicks the picture
+#
+# Wrap text in *asterisks* for italics.
+
+- file: seeds.png
+  title: Seeds
+  text: Book cover for a friend. "Mangiò i semi e scartò la buccia"
+
+- file: raccoon.png
+  title: Raccoon
+  text: This is a fun example of how some species can figure out how to navigate human-made obstacles in urban areas.
+
+- file: people-and-planet.png
+  title: People and Planet
+  text: Sometimes, realizing our connection to the planet takes only seconds if we dare to stop and think about it.
+
+- file: penguins.jpg
+  title: Mother
+  text: Mothers are mothers across the tree of life.
+
+- file: godzilla.png
+  title: Exobiology
+  text: How would Godzilla's biology work? Or would it work in this world?
+
+- file: fish.png
+  title: Colors and patterns
+  text: Fish colors and patterns are evolutionarily derived for many reasons, such as camouflage, mating, and defense. There is so much art inspiration!
+
+- file: cat.png
+  title: One of us
+  text: How did we evolve to make another species to make the center of our lives?
+
+- file: robin.png
+  title: Fly
+  text: "“I would like to paint the way a bird sings.” — Claude Monet"
+
+- file: stability.png
+  title: Stability
+  text: For the systems bouncing back after disturbances.
+
+- file: life-and-death.png
+  title: Life and death
+  text: Life and death that I drew for a dear friend, Felipe, working on the origin of life.
+
+- file: endless-learning.png
+  title: Endless learning
+  text: There are too many things that I don't know...
+
+- file: daphnia.png
+  title: Daphnia
+  text: For Turner, who is in love with his study system and math.
+
+- file: bunny.png
+  title: Friend
+  text: I drew this for a sister, Emily, and her bunny friend.
+
+- file: drosophila.jpg
+  title: Drosophila
+  text: I drew this for a college classmate's lab.
+
+- file: ant.jpg
+  title: Ant
+  text: An ant that I drew for a great mentor and friend, Adam.
+
+- file: pachnoda.png
+  title: "*Pachnoda marginata*"
+  text: Illustration of *Pachnoda marginata* larvae and adult for a friend's thesis project. Adults have a nice yellow-brown color.
+
+- file: blue-jay.png
+  title: Fern leaf and Blue Jay
+  text: Two inspiring living beings that I see in Bloomington often. Fern symbolizes good luck and new beginnings in some cultures.
+
+- file: skull.jpg
+  title: End
+  text: Almost all the world's oceans are damaged by human impact. Only 13% left untouched.
+
+- file: cicada.png
+  title: Seventeen
+  text: One month after I started my postdoc in Lennon Lab, 17-year-old cicadas (Brood X) emerged. It was the most fascinating natural event I've seen. They were loud and everywhere, and I remember that once I biked 10 of them on me. Here is a little reminder.
+
+- file: pomegranate.png
+  title: Pomegranate
+  text: Pomegranate was known as the "fruit of the dead" arose from the blood of Adonis in Greek mythology.
+
+- file: seahorse.png
+  title: Ocean
+  text: I drew this as a birthday present for a marine scientist friend, Peter. Seahorses mate for life, romance is real in their world, and the male can have babies. Fascinating.
+
+- file: new-normal.jpg
+  title: New normal
+  text: Stop and think about how the world has changed since the pandemic.
+
+- file: heart.jpg
+  title: Heart
+  text: Rejections hurt because the pain of heartbreak activates the same part of the brain as physical pain.
+
+- file: darwins-fox.png
+  title: Darwin's fox
+  text: You can adopt symbolic species to support WWF's global efforts to protect wild animals and their habitats. Darwin's fox's conservation status is endangered, and the most important conservation concerns are forest fragmentation and threats posed by feral dogs, either by spreading diseases or directly attacking them.
+
+- file: self.png
+  title: Self
+  text: My surname means black ram. This was one of the moments when I was worried and anxious and wanted to reflect on myself.
+
+- file: darwin.png
+  title: Charles Darwin
+  text: "\"Nothing is easier than to admit in words the truth of the universal struggle for life, or more difficult - at least I have found it so - than constantly to bear this conclusion in mind\" - *On Natural Selection*."

@@ -1,13 +1,19 @@
-# IDEs
-.idea/
+# Quarto build output (Netlify rebuilds it)
+/_site/
+/.quarto/
+# Web-sized illustration copies, made by scripts/prepare_images.py
+/images/illustrations/web/
 
-# Hugo
-/resources/
-/public/
-jsconfig.json
-node_modules/
+# R / RStudio
 .Rproj.user
 .Rhistory
+.RData
+.Rapp.history
+
+# OS / editors
 .DS_Store
 Thumbs.db
-.hugo_build.lock
+.idea/
+__pycache__/
+
+**/*.quarto_ipynb

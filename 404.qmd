@@ -1,0 +1,7 @@
+---
+title: "Page not found"
+---
+
+This page does not exist (any more). The site was reorganised in 2026, so an old link may have moved.
+
+[Go to the home page](index.qmd){.btn-pill .solid} [Publications](publications.qmd){.btn-pill} [Illustrations](illustrations.qmd){.btn-pill}

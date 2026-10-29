@@ -1,0 +1,57 @@
+<%
+// Renders publications.yml. You should not need to edit this file:
+// change publications.yml instead (see EDITING.md).
+const params = (typeof templateParams !== 'undefined' && templateParams) || {};
+const me = params.highlight || 'Karakoç C';
+const limit = Number(params.limit || 0);
+const compact = !!params.compact;
+
+const text = (s) => (s === undefined || s === null) ? '' : String(s).trim();
+const italics = (s) => text(s).replace(/\*([^*\s][^*]*?)\*/g, '<em>$1</em>');
+const doiUrl = (d) => {
+  d = text(d).replace(/^https?:\/\//, '').replace(/^(dx\.)?doi\.org\//, '');
+  return d ? 'https://doi.org/' + d : '';
+};
+const authors = (s) => text(s).split(/\s*,\s*/).filter(Boolean).map((a) =>
+  a.replace(/\*+$/, '') === me ? '<strong>' + a + '</strong>' : a
+).join(', ');
+
+// Papers with a status (in press, under review) come first, then by year.
+const pending = (p) => text(p.status) ? 1 : 0;
+let pubs = items.slice().sort((a, b) =>
+  pending(b) - pending(a) || (Number(b.year) || 0) - (Number(a.year) || 0));
+if (compact) pubs = pubs.filter((p) => !pending(p));
+if (limit) pubs = pubs.slice(0, limit);
+let lastGroup = null;
+%>
+```{=html}
+<div class="pubs <%- compact ? 'pubs-compact' : '' %>">
+<% for (const pub of pubs) {
+     const href = doiUrl(pub.doi) || text(pub.url);
+     const extra = [['PDF', pub.pdf], ['Code', pub.code], ['Data', pub.data]]
+       .concat((pub.links || []).map((l) => [l.name, l.url]))
+       .filter((l) => text(l[1]));
+     const group = pending(pub) ? 'In press & under review' : String(pub.year);
+     if (!compact && group !== lastGroup) { lastGroup = group; %>
+  <h3 class="pub-year" id="<%- pending(pub) ? 'forthcoming' : 'y' + pub.year %>"><%- group %></h3>
+<%   } %>
+  <div class="pub">
+    <div class="pub-title"><% if (href) { %><a href="<%- href %>"><%= italics(pub.title) %></a><% } else { %><%= italics(pub.title) %><% } %></div>
+    <div class="pub-authors"><%= authors(pub.authors) %></div>
+    <div class="pub-venue"><em><%= italics(pub.journal) %></em><% if (text(pub.details)) { %> <%= text(pub.details) %><% } %><% if (compact) { %> <span class="pub-year-inline">(<%- pub.year %>)</span><% } %><% if (pending(pub)) { %> <span class="pub-status"><%- text(pub.status) %></span><% } %></div>
+<% if (text(pub.note)) { %>    <div class="pub-note"><%= italics(pub.note) %></div>
+<% } %>
+<% if (!compact && (text(pub.abstract) || extra.length)) { %>
+    <div class="pub-links">
+<%   if (text(pub.abstract)) { %>
+      <details><summary>Abstract</summary><div class="pub-abstract"><%= text(pub.abstract) %></div></details>
+<%   } %>
+<%   for (const [name, url] of extra) { %>
+      <a href="<%- text(url) %>"><%- name %></a>
+<%   } %>
+    </div>
+<% } %>
+  </div>
+<% } %>
+</div>
+```

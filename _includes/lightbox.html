@@ -1,0 +1,57 @@
+<!-- Click-to-enlarge viewer for the illustrations gallery. -->
+<dialog id="art-viewer" aria-label="Illustration viewer">
+  <button type="button" class="art-close" aria-label="Close">&times;</button>
+  <button type="button" class="art-prev" aria-label="Previous">&#8249;</button>
+  <figure>
+    <img alt="">
+    <figcaption>
+      <div class="art-title"></div>
+      <div class="art-story"></div>
+      <div class="art-count"></div>
+    </figcaption>
+  </figure>
+  <button type="button" class="art-next" aria-label="Next">&#8250;</button>
+</dialog>
+<script>
+(() => {
+  const figures = [...document.querySelectorAll('.gallery figure')];
+  const dlg = document.getElementById('art-viewer');
+  if (!figures.length || !dlg || !dlg.showModal) return;
+  const img = dlg.querySelector('img');
+  const title = dlg.querySelector('.art-title');
+  const story = dlg.querySelector('.art-story');
+  const count = dlg.querySelector('.art-count');
+  let current = 0;
+
+  const show = (i) => {
+    current = (i + figures.length) % figures.length;
+    const fig = figures[current];
+    img.src = fig.querySelector('a').href;
+    img.alt = fig.querySelector('img').alt;
+    title.innerHTML = fig.querySelector('figcaption').innerHTML;
+    story.innerHTML = fig.querySelector('.art-text').innerHTML;
+    count.textContent = (current + 1) + ' / ' + figures.length;
+    history.replaceState(null, '', '#' + fig.id);
+    [1, -1].forEach((d) => { new Image().src = figures[(current + d + figures.length) % figures.length].querySelector('a').href; });
+    if (!dlg.open) dlg.showModal();
+  };
+
+  figures.forEach((fig, i) => fig.querySelector('a').addEventListener('click', (e) => { e.preventDefault(); show(i); }));
+  dlg.querySelector('.art-prev').addEventListener('click', () => show(current - 1));
+  dlg.querySelector('.art-next').addEventListener('click', () => show(current + 1));
+  dlg.querySelector('.art-close').addEventListener('click', () => dlg.close());
+  dlg.addEventListener('click', (e) => { if (e.target === dlg) dlg.close(); });
+  dlg.addEventListener('close', () => history.replaceState(null, '', location.pathname));
+  dlg.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') show(current - 1);
+    if (e.key === 'ArrowRight') show(current + 1);
+  });
+
+  const fromHash = () => {
+    const i = figures.findIndex((f) => '#' + f.id === location.hash);
+    if (i >= 0) show(i);
+  };
+  window.addEventListener('hashchange', fromHash);
+  fromHash();
+})();
+</script>
