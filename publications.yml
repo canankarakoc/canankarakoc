@@ -29,6 +29,7 @@
   journal: Proceedings of the Royal Society B
   year: 2026
   status: Under review
+  code: https://github.com/GaTechBrownLab/Galleria_Survival
 
 - title: An eco-evolutionary consumer-resource theory of host-microbe symbioses
   authors: Martignoni MM, Bordenstein SR, Karakoç C, Tyson RC, Brown SP, Garnier J
@@ -109,6 +110,7 @@
   year: 2025
   doi: 10.1128/msphere.00953-24
   note: "* Equal contribution"
+  code: https://github.com/canankarakoc/metaAnalysis
 
 - title: Relationships of temperature and biodiversity with stability of natural aquatic food webs
   authors: Zhao Q, Van den Brink PJ, Xu C, Wang S, Clark AT, Karakoç C, Sugihara G, Widdicombe CE, Atkinson A, Matsuzaki SS, Shinohara R, He S, Wang YXG, De Laender F
