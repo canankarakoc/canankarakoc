@@ -1,48 +1,68 @@
 ---
 title: "Research"
-subtitle: "A tiny overview of my research interests."
+subtitle: "How do populations persist and adapt when energy is scarce and the environment is hard to predict?"
 ---
 
-:::: {.feature #infection}
-::: {.feature-img}
-![](images/research/infection.jpg){fig-alt="Anatomical drawing of human lungs"}
+::: {.lead-text}
+Much of microbial life is short of energy most of the time, in environments that change in ways that are hard to anticipate. I study how populations and communities persist and adapt under these conditions, with experiments in bacteria, phages, protists and the insect *Galleria mellonella*, genome sequencing, time-series analysis and theory.
 :::
-::: {.feature-body}
-## Microbial dynamics, infections, and evolutionary medicine
 
-Evolutionary medicine is an emerging discipline that employs eco-evolutionary theories alongside analyses of historical and contemporary patient data. Tracing the evolutionary origins of human health and diseases gives us profound insights into the genetic and physiological mechanisms underlying conditions. For instance, understanding how pathogens evolve and spread within hospital environments can inform strategies for preventing and treating sepsis, a life-threatening condition often triggered by infections. This interdisciplinary approach sheds light on the origins of health problems, and guides personalized treatment plans and infection control measures. Furthermore, evolutionary medicine enables us to anticipate future challenges, such as the rise of drug-resistant pathogens, and develop proactive strategies to mitigate their impact on human health.
-
-In the Brown Lab, my research focuses on *Pseudomonas aeruginosa* (PA) infections and antibiotic resistance within the context of Cystic Fibrosis (CF), an inherited disorder causing severe damage to the lungs, digestive system, and other organs. PA infections are common among CF patients, and frequent antibiotic use has led to the emergence of resistance. However, there's a discrepancy between treatment outcomes and the susceptibility profile of resistant strains. We hypothesize that the lung environment's ecology, including other commensal species, influences resistance evolution through both competition and horizontal gene transfer. To explore these complex eco-evolutionary processes, we utilize synthetic and patient-derived communities.
-
-Here, we ask a simple question: what are the dynamics of pathogen-induced death? Death is a central phenotype in biomedical and epidemiological infectious disease biology. Yet, very little work has attempted to link the biomedical focus on pathogen dynamics within a host and the epidemiological focus on populations of infected hosts. To systematically characterize the dynamics of death in controlled animal infections, we analyze diverse lethal animal infection models, experiment using a nematode host – bacterial pathogen system, and mathematical modeling. Across experimental models, we find robust support for an accelerating risk of death since the time of infection, contrasting with conventional epidemiological models that assume a constant elevated risk of death.
-
-**Code:** [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory)
-:::
-::::
-
-:::: {.feature #dormancy}
+:::: {.feature #energy}
 ::: {.feature-img}
 ![](images/research/dormancy.jpg){fig-alt="Slide on Schrödinger's What is Life? and the arrow from life to death"}
 :::
 ::: {.feature-body}
-## Life, energy limitation and dormancy
+[]{#dormancy}
 
-Many organisms survive long-term environmental stress and energy limitation by reducing metabolic activity in a dormant state. Microbial dormancy, for instance, by forming resistant spores, stores genetic, phenotypic, and taxonomic diversity, contributing to longevity and long-term stability of individuals and populations. This life-history trait is at least 2.7 billion years old, even included in the origins of life models. It is a complex mechanism involving hundreds of genes controlling commitment, forming a spore, and exiting dormancy. This decision comes with energetic costs and ecological consequences. With Jay Lennon, we make quantitative estimations on energy expenditures to explain how this trait is maintained at evolutionary times and how it can be lost under certain environmental conditions.
+## Energy: what it costs to persist
 
-**Code:** [cost_of_spore](https://github.com/LennonLab/cost_of_spore) · [starvation](https://github.com/LennonLab/starvation)
+When energy runs short, genetically identical cells do not all respond in the same way. Some keep growing, some form dormant spores, and some become persisters that survive antibiotics without being resistant. These states let a population survive stress, but they are not free.
+
+With [Jay Lennon](https://lennonlab.github.io/), I measured the energetic cost of sporulation in *Bacillus subtilis* in units of ATP. Making and reviving a spore takes almost 10^10^ ATP, about 10% of a cell's total energy budget, so sporulation is favorable only when stress is long or unpredictable. When sporulation is not needed, its cost is large enough that selection can favor deleting sporulation genes rather than merely letting them decay. Related work follows *B. subtilis* populations through 1,000 days without added resources.
+
+Next, I want to know what drives cells into each state and what that means for evolution. Dormant cells are not exposed to selection, so a large dormant fraction should slow adaptation.
+
+**Paper:** [PNAS 2026](https://doi.org/10.1073/pnas.2524274123) · **Code:** [cost_of_spore](https://github.com/LennonLab/cost_of_spore) · [starvation](https://github.com/LennonLab/starvation)
 :::
 ::::
 
-:::: {.feature #ecoevo}
+:::: {.feature #predictability}
 ::: {.feature-img}
-![](images/research/ecoevo.jpg){fig-alt="Illustration of bacterial cells and a phage"}
+![](images/research/infection.jpg){fig-alt="Anatomical drawing of human lungs"}
 :::
 ::: {.feature-body}
-## Eco-evolutionary dynamics and trait evolution
+[]{#infection}
 
-Abiotic and biotic interactions may constrain the evolution of traits. To test the effect of ecology on evolution, I have been observing host bacterial species co-evolving with their predator bacteriophage, competitors, and different selection pressures over generations. I have been especially simulate noisy antibiotic exposure or resource levels to understand the effect of environmental stochasticity on the population dynamics and the trait shifts. I have measured the shifts in life history and functional traits of the isolated focal species; have them compete with their ancestors, and we estimate their relative fitness.
+## Predictability: forecasting infection
+
+Infections can end very differently in hosts that look alike at the start. In the [Brown Lab](https://brownlab.biology.gatech.edu/) I ask which measurements predict the outcome, and why some outcomes are hard to predict at all.
+
+Across diverse host–pathogen systems, we found that the risk of death keeps rising over the course of an acute infection instead of staying constant, as standard epidemiological models assume. In the insect *Galleria mellonella* infected with *Pseudomonas aeruginosa*, the host's condition links infection history to survival: once host damage is accounted for, pathogen density adds little to predicting which hosts survive. In game-theory models of coevolution, hosts and pathogens that evolve conditional response rules, rather than fixed traits, accumulate cryptic genetic variation that is expressed abruptly once a threshold is crossed, and their responses to one another alone can make the dynamics hard to predict.
+
+Next, I will manipulate host nutrition in *Galleria* to test whether energy limitation constrains how hosts respond to infection. Outside infection experiments, I ran the time-series analysis for a colleague's wastewater surveillance study, testing whether virus loads in sewage lead reported cases.
+
+**Papers:** [mSphere 2025](https://doi.org/10.1128/msphere.00953-24) · *Proceedings B* (under review) · **Code:** [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) · [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus)
+:::
+::::
+
+:::: {.feature #noise}
+::: {.feature-img}
+![](images/research/ecoevo.jpg){fig-alt="Diagram of a focal bacterial species with a phage predator, a competitor species and antibiotic scenarios"}
+:::
+::: {.feature-body}
+[]{#ecoevo}
+
+## Noise: fluctuating environments and noisy data
+
+Environments with the same average conditions can differ in how predictable their fluctuations are. Theory predicts that this alone changes what evolves: predictable change should favor genetic adaptation, and unpredictable change flexible strategies such as bet-hedging. The prediction is rarely tested with the mean and variance held fixed.
+
+In ongoing experiments, *Escherichia coli* evolves with its phages and competitors under antibiotic regimes that differ only in how they fluctuate over time, and I measure how growth, resistance and phage susceptibility change. In a pilot I designed at UFZ with two students, the strain evolved its highest resistance only without competitors, and the competitor it faced shaped which traits evolved.
 
 ![](images/research/ecoevo-colonies.jpg){fig-alt="Bacterial colonies streaked on an agar plate" width="70%"}
+
+Noise is also a property of data. As PI of a [Cystic Fibrosis Foundation](https://www.cff.org/) fellowship, I analyze longitudinal records of routine antibiotic-susceptibility tests of *P. aeruginosa* from people with cystic fibrosis, treating each test as a noisy sample of the resistance in the patient. Bayesian mixed models, Markov models of transitions between resistance states and empirical dynamic modeling indicate that resistance follows nonlinear, state-dependent dynamics.
+
+Across projects, I use empirical dynamic modeling to measure predictability and infer causal links from time series, and state-space models to separate real fluctuations from measurement error ([Ecosphere 2022](https://doi.org/10.1002/ecs2.4328)).
 :::
 ::::
 
@@ -53,14 +73,18 @@ Abiotic and biotic interactions may constrain the evolution of traits. To test t
 ::: {.feature-body}
 ## Community dynamics and stability
 
-During my PhD and postdoc life at [UFZ](https://www.ufz.de/index.php?en=33573) and [iDiv](https://www.idiv.de/en/index.html), my research has mainly focused on the importance of species interactions, especially predator-prey interactions, and how the nature of perturbations shapes them. I have designed experiments with microcosms consisting of bacterial prey communities and the protozoan predator *Tetrahymena*. Some of the questions I have been asking were: How do population dynamics and inducible traits of species correspond to the diversity and coexistence of the communities? What mechanisms affect the dynamics, resistance, and recovery of species and communities?
+My PhD at [UFZ](https://www.ufz.de/index.php?en=33573) and [iDiv](https://www.idiv.de/en/index.html) asked how predator–prey interactions shape communities under disturbance, using microcosms of bacterial prey and the protist predator *Tetrahymena*. I examined how the system recovers from press and pulse disturbances and how predation and disturbance together shape prey communities, and showed that interaction strengths shift over time in ways that alter which species coexist.
 
-I also have worked with systems of different complexities. For example, we investigated the response of freshwater microbial biodiversity and functioning to nutrient elevations using semi-natural microcosms.
+Since then, with colleagues, I have helped develop ways to measure stability in systems without static equilibria and a practical guide to characterizing coexistence, and tested how temperature and biodiversity relate to the stability of natural aquatic food webs. I have also worked in more natural settings: freshwater microbial communities under nutrient enrichment, a field experiment on climate extremes in grassland and heath, and greenhouse experiments in which drought changed how mycorrhizal fungal diversity and barley genotype diversity interact. For colleagues at UFZ, I reanalyzed experiments on plasmid transfer between bacteria along fungal hyphae.
 
-![](images/research/community-bottles.jpg){fig-alt="Microcosm bottles in an incubator" width="70%"}
+These projects share a question I now ask across levels of organization: when the parts of a system respond differently to change, does that response diversity keep the whole stable?
 
-We also investigated the role of aboveground and below-ground biodiversity and their interactions on the mitigation of drought stress using greenhouse pot experiments.
+::: {layout-ncol="2"}
+![](images/research/community-bottles.jpg){fig-alt="Microcosm bottles in an incubator"}
 
-![](images/research/community-pots.jpg){fig-alt="Barley pots in a greenhouse" width="70%"}
+![](images/research/community-pots.jpg){fig-alt="Barley pots in a greenhouse"}
+:::
+
+**Papers:** [BMC Ecology 2017](https://doi.org/10.1186/s12898-017-0123-2) · [Scientific Reports 2018](https://doi.org/10.1038/s41598-018-21219-x) · [Scientific Reports 2019](https://doi.org/10.1038/s41598-019-45702-1) · [Ecology Letters 2020](https://doi.org/10.1111/ele.13500) · [Ecology Letters 2021](https://doi.org/10.1111/ele.13760) · [Ecosphere 2022](https://doi.org/10.1002/ecs2.4328) · [Nature Communications 2023](https://doi.org/10.1038/s41467-023-38977-6) · [Biological Reviews 2026](https://doi.org/10.1111/brv.70079) · **Code:** [fungal-highways-reanalysis](https://github.com/canankarakoc/fungal-highways-reanalysis)
 :::
 ::::

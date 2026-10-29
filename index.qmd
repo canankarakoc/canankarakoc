@@ -61,9 +61,9 @@ I am currently supported by a [Cystic Fibrosis Foundation](https://www.cff.org/)
 ## Research
 
 ::: {.topic-grid}
-[![](images/research/infection.jpg){.nolightbox fig-alt=""}[Microbial dynamics, infections, and evolutionary medicine]{.topic-title}](research.qmd#infection){.topic-card}
-[![](images/research/dormancy.jpg){.nolightbox fig-alt=""}[Life, energy limitation and dormancy]{.topic-title}](research.qmd#dormancy){.topic-card}
-[![](images/research/ecoevo.jpg){.nolightbox fig-alt=""}[Eco-evolutionary dynamics and trait evolution]{.topic-title}](research.qmd#ecoevo){.topic-card}
+[![](images/research/dormancy.jpg){.nolightbox fig-alt=""}[Energy: what it costs to persist]{.topic-title}](research.qmd#energy){.topic-card}
+[![](images/research/infection.jpg){.nolightbox fig-alt=""}[Predictability: forecasting infection]{.topic-title}](research.qmd#predictability){.topic-card}
+[![](images/research/ecoevo.jpg){.nolightbox fig-alt=""}[Noise: fluctuating environments and noisy data]{.topic-title}](research.qmd#noise){.topic-card}
 [![](images/research/community.jpg){.nolightbox fig-alt=""}[Community dynamics and stability]{.topic-title}](research.qmd#community){.topic-card}
 :::
 
