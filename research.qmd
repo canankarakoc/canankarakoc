@@ -43,7 +43,7 @@ Across diverse host–pathogen systems, we found that the risk of death keeps ri
 
 Next, I will manipulate host nutrition in *Galleria* to test whether energy limitation constrains how hosts respond to infection. Outside infection experiments, I ran the time-series analysis for a colleague's wastewater surveillance study, testing whether virus loads in sewage lead reported cases.
 
-**Papers:** [mSphere 2025](https://doi.org/10.1128/msphere.00953-24) · *Proceedings B* (under review) · **Code:** [metaAnalysis](https://github.com/canankarakoc/metaAnalysis) · [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) · [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus)
+**Papers:** [mSphere 2025](https://doi.org/10.1128/msphere.00953-24) · *Proceedings B* (under review) · **Code:** [metaAnalysis](https://github.com/GaTechBrownLab/metaAnalysis) · [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) · [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) · [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus)
 :::
 ::::
 
