@@ -17,6 +17,7 @@ Evolutionary ecologist working with microbes. I combine experiments, data synthe
 | Predictability | [Galleria_Survival](https://github.com/GaTechBrownLab/Galleria_Survival) | Host health, infection history and survival in *Galleria mellonella* infected with *Pseudomonas aeruginosa* |
 | Predictability | [GoldsteinGameTheory](https://github.com/GaTechBrownLab/GoldsteinGameTheory) | Host-pathogen coevolution of conditional response rules versus fixed traits |
 | Predictability | [wasteWaterVirus](https://github.com/canankarakoc/wasteWaterVirus) | Whether virus loads in sewage track and lead reported cases (ARIMA, VAR, cross-correlation) |
+| Noise | [noise-host-phage](https://github.com/canankarakoc/noise-host-phage) | *E. coli* evolving with phage T4 under constant, white-noise and red-noise antibiotic regimes, with and without dispersal |
 | Teaching | [teaching-materials](https://github.com/canankarakoc/teaching-materials) | Activities, worksheets and R scripts from four courses, 2018-2025 |
 
 [Website](https://www.ckarakoc.com) · [Google Scholar](https://scholar.google.com/citations?user=BtBhIX4AAAAJ) · [ORCID](https://orcid.org/0000-0002-3921-3535) · [Bluesky](https://bsky.app/profile/ckarakoc.bsky.social)
