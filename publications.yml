@@ -1,0 +1,246 @@
+# PUBLICATIONS
+# ============
+# This file is the publication list on the website (Publications page + the
+# three most recent on the home page). Edit it here or directly on GitHub.
+#
+# To add a paper, either
+#   - copy an entry below, paste it at the top, and change the details, or
+#   - run:  python3 scripts/add_publication.py 10.1073/pnas.2524274123
+#     (or use "Add publication" in the GitHub Actions tab) to fill it in from the DOI.
+#
+# Fields
+#   title, authors, journal, year   required
+#   details    volume(issue): pages, shown after the journal name
+#   doi        just the DOI (10.xxxx/...); the title links to it
+#   url        link to use when there is no DOI (theses, reports, preprints)
+#   note       small line under the entry, e.g. "* Equal contribution"
+#   pdf, code, data   links shown as buttons
+#   abstract   shown behind an "Abstract" button
+#   status     e.g. "In press" or "Under review": listed at the top of the
+#              Publications page (not on the home page). Remove it once the
+#              paper is out and add the doi.
+#
+# Your name ("Karakoç C") is bolded automatically; add * for co-first authors.
+# Order does not matter: the page sorts by year, newest first.
+# Wrap text in *asterisks* for italics, e.g. species names.
+
+- title: Host health links infection history to survival during acute *Pseudomonas aeruginosa* infection
+  authors: Karakoç C, O'Sullivan T, Gurney J, Martignoni MM, Wollein-Waldetoft K, Brown SP
+  journal: Proceedings of the Royal Society B
+  year: 2026
+  status: Under review
+
+- title: An eco-evolutionary consumer-resource theory of host-microbe symbioses
+  authors: Martignoni MM, Bordenstein SR, Karakoç C, Tyson RC, Brown SP, Garnier J
+  journal: Journal of Evolutionary Biology
+  year: 2026
+  status: In press
+
+- title: Evolutionary bioenergetics of sporulation
+  authors: Karakoç C, Shoemaker WR, Lennon JT
+  journal: Proceedings of the National Academy of Sciences
+  details: "123(6): e2524274123"
+  year: 2026
+  doi: 10.1073/pnas.2524274123
+  code: https://github.com/LennonLab/cost_of_spore
+  abstract: >-
+    Energy is required for the expression and maintenance of complex traits. In
+    many habitats, however, free energy available to support biosynthesis is in
+    vanishingly short supply. As a result, many taxa have evolved persistence
+    strategies that support survival in unfavorable environments. Among these is
+    sporulation, an ancient bacterial program governed by a large genetic
+    network that requires energy for both regulation and execution. Yet
+    sporulation is a last resort, initiated when cellular energy is nearly
+    exhausted. To resolve this paradox, we quantified the energetic cost of
+    sporulation in units of ATP by integrating time-resolved genome,
+    transcriptome, and proteome profiles. The full cost of the spore cycle,
+    including both formation and revival, ranks among the most energy-intensive
+    processes in the bacterial cell, requiring almost 10<sup>10</sup> ATP and
+    consuming about 10% of the total energy budget. The majority of this cost
+    arises from translation, membrane synthesis, and protein turnover. Despite
+    its considerable upfront investment, sporulation enables long-term survival
+    and becomes optimal when harsh conditions extend over timescales of months
+    or longer. This trade-off between immediate cost and delayed benefit helps
+    explain when sporulation is maintained or replaced by alternative
+    strategies. By incorporating our estimates into mechanistic models, we show
+    how metabolic constraints shape sporulation efficiency, while genome-wide
+    mutation accumulation data reveal that even modest energetic burdens can
+    become visible to selection, influencing the evolutionary fate of this
+    complex and widespread trait.
+
+- title: A practical guide to characterising ecological coexistence
+  authors: Clark AT, Shoemaker LG, Arnoldi J-F, Barabás G, Germain R, Godoy O, Hallett L, Karakoç C, Saavedra S, Schreiber SJ
+  journal: Biological Reviews
+  details: "101(1): 195–220"
+  year: 2026
+  doi: 10.1111/brv.70079
+  abstract: >-
+    Coexistence is simultaneously one of the most fundamental concepts of
+    ecology, and one of the most difficult to define. A particular challenge is
+    that, despite a well-developed body of research, several different schools
+    of thought have developed over the past century, leading to multiple
+    independent, and largely isolated, branches of literature with distinct
+    methodologies. Here, we provide a broad overview of the most common concepts
+    and metrics currently used to detect and characterise ecological
+    coexistence. We first introduce four classes of behaviour, which jointly
+    describe the ways in which community dynamics can unfold: (i) the existence
+    of a feasible steady state (or invariant set), i.e. where all coexisting
+    species retain positive abundances in the long-term in the absence of
+    interference by external forces; (ii) the existence of a local attractor
+    that draws the community towards a feasible steady state from within a
+    restricted set of starting conditions; (iii) the existence of a global
+    attractor that draws the community towards feasible steady states from any
+    non-zero starting condition; and (o) a null transient state, where species
+    abundances vary over time irrespective of steady states and attractors.
+    Next, we explain how these classes of behaviour relate to commonly used
+    metrics for identifying and characterising coexistence, including analyses
+    of parameter sensitivity, asymptotic return rates, invasion growth rates,
+    and time to extinction. We then discuss the scope and limitations of each of
+    these behavioural classes and corresponding metrics, with a particular focus
+    on applications in empirical systems. Finally, we provide a potential
+    workflow for matching empirical questions to theoretical tools, and present
+    a brief prospectus looking forward to opportunities for advancing and
+    integrating research on coexistence.
+
+- title: Risk of death during acute infection is accelerating across diverse host-pathogen systems and consistent with multiple models of host-pathogen interaction
+  authors: "O'Sullivan T*, Karakoç C*, Wollein-Waldetoft K, Brown SP"
+  journal: mSphere
+  details: e00953-24
+  year: 2025
+  doi: 10.1128/msphere.00953-24
+  note: "* Equal contribution"
+
+- title: Relationships of temperature and biodiversity with stability of natural aquatic food webs
+  authors: Zhao Q, Van den Brink PJ, Xu C, Wang S, Clark AT, Karakoç C, Sugihara G, Widdicombe CE, Atkinson A, Matsuzaki SS, Shinohara R, He S, Wang YXG, De Laender F
+  journal: Nature Communications
+  details: "14: 3507"
+  year: 2023
+  doi: 10.1038/s41467-023-38977-6
+  abstract: >-
+    Temperature and biodiversity changes occur in concert, but their joint
+    effects on ecological stability of natural food webs are unknown. Here, we
+    assess these relationships in 19 planktonic food webs. We estimate stability
+    as structural stability (using the volume contraction rate) and temporal
+    stability (using the temporal variation of species abundances). Warmer
+    temperatures were associated with lower structural and temporal stability,
+    while biodiversity had no consistent effects on either stability property.
+    While species richness was associated with lower structural stability and
+    higher temporal stability, Simpson diversity was associated with higher
+    temporal stability. The responses of structural stability were linked to
+    disproportionate contributions from two trophic groups (predators and
+    consumers), while the responses of temporal stability were linked both to
+    synchrony of all species within the food web and distinctive contributions
+    from three trophic groups (predators, consumers, and producers). Our results
+    suggest that, in natural ecosystems, warmer temperatures can erode ecosystem
+    stability, while biodiversity changes may not have consistent effects.
+
+- title: Distinct life history strategies underpin clear patterns of succession in microparasite communities infecting a wild mammalian host
+  authors: Glidden CK, Karakoç C, Duan C, Jiang Y, Beechler B, Jabbar A, Jolles AE
+  journal: Molecular Ecology
+  details: "32(13): 3733–3746"
+  year: 2023
+  doi: 10.1111/mec.16949
+
+- title: The community ecology perspective of omics data
+  authors: Jurburg SD, Buscot F, Chatzinotas A, Chaudhari NM, Clark AT, Garbowski M, Grenié M, Hom EFY, Karakoç C, Marr S, Neumann S, Tarkka M, van Dam NM, Weinhold A, Heintz-Buschart A
+  journal: Microbiome
+  details: "10: 225"
+  year: 2022
+  doi: 10.1186/s40168-022-01423-8
+
+- title: Measuring stability in ecological systems without static equilibria
+  authors: Clark AT, Mühlbauer LK, Hillebrand H, Karakoç C
+  journal: Ecosphere
+  details: "13(12): e4328"
+  year: 2022
+  doi: 10.1002/ecs2.4328
+
+- title: General statistical scaling laws for stability in ecological systems
+  authors: Clark AT, Arnoldi J-F, Zelnik YR, Barabás G, Hodapp D, Karakoç C, König S, Radchuk V, Donohue I, Huth A, Jacquet C, de Mazancourt C, Mentges A, Nothaaß D, Shoemaker LG, Taubert F, Wiegand T, Wang S, Chase JM, Loreau M, Harpole S
+  journal: Ecology Letters
+  details: "24(7): 1474–1486"
+  year: 2021
+  doi: 10.1111/ele.13760
+  abstract: >-
+    Ecological stability refers to a family of concepts used to describe how
+    systems of interacting species vary through time and respond to
+    disturbances. Because observed ecological stability depends on sampling
+    scales and environmental context, it is notoriously difficult to compare
+    measurements across sites and systems. Here, we apply stochastic dynamical
+    systems theory to derive general statistical scaling relationships across
+    time, space, and ecological level of organisation for three fundamental
+    stability aspects: resilience, resistance, and invariance. These
+    relationships can be calibrated using random or representative samples
+    measured at individual scales, and projected to predict average stability at
+    other scales across a wide range of contexts. Moreover deviations between
+    observed vs. extrapolated scaling relationships can reveal information about
+    unobserved heterogeneity across time, space, or species. We anticipate that
+    these methods will be useful for cross-study synthesis of stability data,
+    extrapolating measurements to unobserved scales, and identifying underlying
+    causes and consequences of heterogeneity.
+
+- title: "Mining synergistic microbial interactions: a roadmap on how to integrate multi-omics data"
+  authors: Saraiva JP, Worrich A, Karakoç C, Kallies R, Chatzinotas A, Centler F, Nunes da Rocha U
+  journal: Microorganisms
+  details: "9(4): 840"
+  year: 2021
+  doi: 10.3390/microorganisms9040840
+
+- title: Diversity and coexistence are influenced by time-dependent species interactions in a predator–prey system
+  authors: Karakoç C, Clark AT, Chatzinotas A
+  journal: Ecology Letters
+  details: "23(6): 983–993"
+  year: 2020
+  doi: 10.1111/ele.13500
+  abstract: >-
+    Although numerous studies show that communities are jointly influenced by
+    predation and competitive interactions, few have resolved how temporal
+    variability in these interactions influences community assembly and
+    stability. Here, we addressed this challenge in experimental microbial
+    microcosms by employing empirical dynamic modelling tools to: (1) detect
+    causal interactions between prey species in the absence and presence of a
+    predator; (2) quantify the time-varying strength of these interactions and
+    (3) explore stability in the resulting communities. Our findings show that
+    predators boost the number of causal interactions among community members,
+    and lead to reduced dynamic stability, but higher coexistence among prey
+    species. These results correspond to time-varying changes in species
+    interactions, including emergence of morphological characteristics that
+    appeared to reduce predation, and indirectly facilitate growth of
+    predator-susceptible species. Jointly, our findings suggest that careful
+    consideration of both context and time may be necessary to predict and
+    explain outcomes in multi-trophic systems.
+
+- title: Drought modulates interactions between arbuscular mycorrhizal fungal diversity and barley genotype diversity
+  authors: "Sendek A*, Karakoç C*, Wagg C, Domínguez-Begines J, Martucci do Couto G, van der Heijden MGA, Naz AA, Lochner A, Chatzinotas A, Klotz S, Gómez-Aparicio L, Eisenhauer N"
+  journal: Scientific Reports
+  details: 9(1)
+  year: 2019
+  doi: 10.1038/s41598-019-45702-1
+  note: "* Equal contribution"
+
+- title: "Context dependency of community dynamics: predator-prey interactions under ecological disturbances"
+  authors: Karakoç C
+  journal: PhD thesis, Leipzig University
+  year: 2019
+  url: https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-341500
+
+- title: Interactions between predation and disturbances shape prey communities
+  authors: Karakoç C, Radchuk V, Harms H, Chatzinotas A
+  journal: Scientific Reports
+  details: "8: 2968"
+  year: 2018
+  doi: 10.1038/s41598-018-21219-x
+
+- title: "Rumen bacteria at work: bioaugmentation strategies to enhance biogas production from cow manure"
+  authors: Ozbayram EG, Akyol Ç, Ince B, Karakoç C, Ince O
+  journal: Journal of Applied Microbiology
+  details: "124(2): 491–502"
+  year: 2018
+  doi: 10.1111/jam.13668
+
+- title: Transient recovery dynamics of a predator–prey system under press and pulse disturbances
+  authors: Karakoç C, Singer A, Johst K, Harms H, Chatzinotas A
+  journal: BMC Ecology
+  details: "17: 13"
+  year: 2017
+  doi: 10.1186/s12898-017-0123-2

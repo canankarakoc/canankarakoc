@@ -1,0 +1,36 @@
+# Adds a paper to publications.yml from its DOI, without needing a computer:
+# GitHub -> Actions -> "Add publication" -> Run workflow -> paste the DOI.
+# The site rebuilds automatically after the commit.
+name: Add publication
+
+on:
+  workflow_dispatch:
+    inputs:
+      doi:
+        description: "DOI of the paper (e.g. 10.1073/pnas.2524274123)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Look up the DOI and add it
+        env:
+          DOI: ${{ inputs.doi }}
+        run: python scripts/add_publication.py "$DOI"
+      - name: Commit
+        env:
+          DOI: ${{ inputs.doi }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publications.yml
+          git commit -m "Add publication $DOI"
+          git push

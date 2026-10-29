@@ -1,0 +1,16 @@
+---
+title: "Publications"
+subtitle: "Also on [Google Scholar](https://scholar.google.com/citations?user=BtBhIX4AAAAJ) and [ORCID](https://orcid.org/0000-0002-3921-3535)."
+listing:
+  id: all-pubs
+  contents: publications.yml
+  template: _templates/publications.ejs
+  template-params:
+    highlight: "Karakoç C"
+  sort: false
+---
+
+<!-- The list comes from publications.yml - edit that file to add a paper. -->
+
+::: {#all-pubs}
+:::

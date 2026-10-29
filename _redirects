@@ -1,0 +1,20 @@
+# Old addresses from the previous (Hugo/Wowchemy) site -> new pages.
+# Netlify reads this file; keep it so old links keep working.
+
+/publication            /publications.html    301
+/publication/*          /publications.html    301
+/publication-type/*     /publications.html    301
+/project                /research.html        301
+/project/*              /research.html        301
+/other                  /outreach.html        301
+/other/*                /outreach.html        301
+/illustration           /illustrations.html   301
+/illustration/*         /illustrations.html   301
+/post                   /                301
+/post/*                 /                301
+/author/*               /                301
+/tag/*                  /                301
+/category/*             /                301
+/talk/*                 /                301
+/event/*                /                301
+/slides/*               /                301

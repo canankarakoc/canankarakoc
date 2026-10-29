@@ -1,0 +1,73 @@
+# Site settings. Most edits happen in the .qmd pages and the two lists
+# (publications.yml, illustrations.yml) - see EDITING.md.
+
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  # Makes web-sized copies of the illustrations (originals stay untouched).
+  pre-render: scripts/prepare_images.py
+  resources:
+    - media/
+    - images/illustrations/web/
+    - _redirects
+
+website:
+  title: "Canan Karakoç"
+  description: "Evolutionary ecologist working with microbes."
+  site-url: https://www.ckarakoc.com
+  favicon: images/logo.png
+  open-graph: true
+  search: false
+  navbar:
+    title: "Canan Karakoç"
+    logo: images/logo.png
+    logo-alt: "CK logo"
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Outreach
+        href: outreach.qmd
+      - text: Illustrations
+        href: illustrations.qmd
+      - text: CV
+        href: media/CV.pdf
+        target: _blank
+  page-footer:
+    left: "© 2026 Canan Karakoç"
+    right:
+      - icon: envelope
+        href: index.qmd#contact
+        aria-label: Contact
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=BtBhIX4AAAAJ
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/canankarakoc
+        aria-label: GitHub
+      - icon: bluesky
+        href: https://bsky.app/profile/ckarakoc.bsky.social
+        aria-label: Bluesky
+      - icon: linkedin
+        href: https://www.linkedin.com/in/canankarakoc666/
+        aria-label: LinkedIn
+      - icon: instagram
+        href: https://www.instagram.com/belovedblackram/
+        aria-label: Instagram
+
+format:
+  html:
+    theme:
+      light: [default, styles/theme.scss]
+      dark: [default, styles/theme.scss, styles/dark.scss]
+    respect-user-color-scheme: true
+    lightbox: auto
+    html-math-method: plain
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false

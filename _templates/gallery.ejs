@@ -1,0 +1,39 @@
+<%
+// Renders illustrations.yml. You should not need to edit this file:
+// change illustrations.yml instead (see EDITING.md).
+// Web-sized copies are made by scripts/prepare_images.py.
+const params = (typeof templateParams !== 'undefined' && templateParams) || {};
+const limit = Number(params.limit || 0);
+const strip = !!params.strip;
+
+const text = (s) => (s === undefined || s === null) ? '' : String(s).trim();
+const plain = (s) => text(s).replace(/\*/g, '');
+const italics = (s) => text(s).replace(/</g, '&lt;').replace(/\*([^*]+)\*/g, '<em>$1</em>');
+const stem = (f) => text(f).replace(/\.[^.]+$/, '');
+const slug = (f) => stem(f).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const web = 'images/illustrations/web/';
+
+let art = items.filter((i) => text(i.file));
+if (limit) art = art.slice(0, limit);
+%>
+```{=html}
+<% if (strip) { %>
+<div class="strip">
+<% for (const a of art) { %>
+  <a href="illustrations.html#<%- slug(a.file) %>" title="<%- plain(a.title) %>"><img src="<%- web + stem(a.file) %>-thumb.jpg" alt="<%- plain(a.title) %>" loading="lazy"></a>
+<% } %>
+</div>
+<% } else { %>
+<div class="gallery">
+<% for (const a of art) { %>
+  <figure id="<%- slug(a.file) %>">
+    <a href="<%- web + stem(a.file) %>-large.jpg" class="art-link">
+      <img src="<%- web + stem(a.file) %>-thumb.jpg" alt="<%- plain(a.title) %>" loading="lazy">
+    </a>
+    <figcaption><%= italics(a.title) %></figcaption>
+    <div class="art-text" hidden><%= italics(a.text) %></div>
+  </figure>
+<% } %>
+</div>
+<% } %>
+```

@@ -1,0 +1,17 @@
+---
+title: "Illustrations"
+subtitle: "Some of my nature-inspired drawings. Follow me on [Instagram](https://www.instagram.com/belovedblackram/) for more."
+listing:
+  id: gallery
+  contents: illustrations.yml
+  template: _templates/gallery.ejs
+  sort: false
+include-after-body: _includes/lightbox.html
+page-layout: full
+body-classes: page-wide
+---
+
+<!-- The pictures come from illustrations.yml - edit that file to add one. -->
+
+::: {#gallery}
+:::
