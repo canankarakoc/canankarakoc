@@ -11,7 +11,6 @@ directly on GitHub (pencil icon) or locally in RStudio.
 | Home page / About me / Contact | `index.qmd`                                   |
 | Research                      | `research.qmd`                                 |
 | Publications                  | `publications.yml`                             |
-| Science outreach              | `outreach.qmd`                                 |
 | Illustrations                 | `illustrations.yml` + `images/illustrations/`  |
 | CV (PDF)                      | replace `media/CV.pdf` (same name)             |
 | CV page: talks, teaching, …   | `cv.qmd`                                       |

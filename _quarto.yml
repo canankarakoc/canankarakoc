@@ -29,8 +29,6 @@ website:
         href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Outreach
-        href: outreach.qmd
       - text: Illustrations
         href: illustrations.qmd
       - text: CV
