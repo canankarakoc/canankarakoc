@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science outreach | C. Karakoç</title>
+    <link>https://www.canankarakoc.com/other/</link>
+      <atom:link href="https://www.canankarakoc.com/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science outreach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© C. Karakoç (2025)</copyright>
+    <image>
+      <url>https://www.canankarakoc.com/media/logo_huf5c1f77293b2f05f4cb02eb59c220769_53316_300x300_fit_lanczos_3.png</url>
+      <title>Science outreach</title>
+      <link>https://www.canankarakoc.com/other/</link>
+    </image>
+    
+    <item>
+      <title>Fun science</title>
+      <link>https://www.canankarakoc.com/other/adults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.canankarakoc.com/other/adults/</guid>
+      <description>&lt;p&gt;Sometimes, it is difficult to tell about your science to scientists. I gave a fun, ignite talk on antibiotic resistance at iDiv Conference to a broad scientific audience&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://www.canankarakoc.com/media/iDiv2018.pdf&#34; target=&#34;_blank&#34;&gt; fun story &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science for public</title>
+      <link>https://www.canankarakoc.com/other/kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.canankarakoc.com/other/kids/</guid>
+      <description>&lt;p&gt;In past years, I participated in &lt;a href=&#34;https://scienceoutreach.indiana.edu/news-events/science-fest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Fest&lt;/a&gt; at IU. It is a public event encouraging the Bloomington community to come on campus and learn about research. Lennon Lab hosted a &amp;ldquo;Bacterial Viruses&amp;rdquo; table where we explained a bacteriophage infection using illustrations, 3D models, and lab samples.&lt;/p&gt;
+&lt;img src=&#34;images/featured.jpeg&#34; alt=&#34;&#34; width=&#34;100%&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science Olympiad</title>
+      <link>https://www.canankarakoc.com/other/olympiads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.canankarakoc.com/other/olympiads/</guid>
+      <description>&lt;p&gt;I have mentored high school students for &lt;a href=&#34;https://www.soinc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Olympiad&lt;/a&gt; for the Experimental Design section at Bloomington South High School. Founded in 1984, the Science Olympiad is the premier team STEM competition in the nation, providing standards-based challenges to 6000 teams at 425 tournaments in all 50 states.&lt;/p&gt;
+&lt;img src=&#34;images/featured.jpeg&#34; alt=&#34;&#34; width=&#34;100%&#34;/&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

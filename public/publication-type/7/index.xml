@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | C. Karakoç</title>
+    <link>https://www.canankarakoc.com/publication-type/7/</link>
+      <atom:link href="https://www.canankarakoc.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© C. Karakoç (2025)</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.canankarakoc.com/media/logo_huf5c1f77293b2f05f4cb02eb59c220769_53316_300x300_fit_lanczos_3.png</url>
+      <title>7</title>
+      <link>https://www.canankarakoc.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Context Dependency of Community Dynamics: Predator-prey Interactions Under Ecological Disturbances</title>
+      <link>https://www.canankarakoc.com/publication/phd/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.canankarakoc.com/publication/phd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

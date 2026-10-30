@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | C. Karakoç</title>
+    <link>https://www.canankarakoc.com/categories/</link>
+      <atom:link href="https://www.canankarakoc.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© C. Karakoç (2025)</copyright>
+    <image>
+      <url>https://www.canankarakoc.com/media/logo_huf5c1f77293b2f05f4cb02eb59c220769_53316_300x300_fit_lanczos_3.png</url>
+      <title>Categories</title>
+      <link>https://www.canankarakoc.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
