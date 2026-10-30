@@ -91,6 +91,16 @@ I have also mentored PhD projects at Oregon State University, the University of 
 - [2022–2024]{.when} Career Development Board, Indiana University Postdoc Association
 :::
 
+## Outreach
+
+::: {.cv-list}
+- [2025]{.when} Atlanta Science Festival
+- [2022–2023]{.when} Science Olympiad mentor, Experimental Design, Bloomington South High School, IN
+- [2021, 2022]{.when} "Bacterial viruses" table at Science Fest, Indiana University
+:::
+
+More outreach and community activities are in the [full CV](media/CV.pdf).
+
 ## Languages
 
 English and German (fluent), Turkish (native).

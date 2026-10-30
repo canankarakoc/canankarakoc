@@ -6,8 +6,10 @@
 /publication-type/*     /publications.html    301
 /project                /research.html        301
 /project/*              /research.html        301
-/other                  /outreach.html        301
-/other/*                /outreach.html        301
+/other                  /cv.html              301
+/other/*                /cv.html              301
+/outreach               /cv.html              301
+/outreach.html          /cv.html              301
 /illustration           /illustrations.html   301
 /illustration/*         /illustrations.html   301
 /post                   /                301
