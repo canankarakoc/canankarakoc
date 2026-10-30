@@ -7,3 +7,6 @@
 
 [build.environment]
   PYTHON_VERSION = "3.12"
+  # The site does not use Node.js; pinning a current version only silences
+  # Netlify's warning about the old Node 16 default.
+  NODE_VERSION = "22"
