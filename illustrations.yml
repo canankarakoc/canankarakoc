@@ -11,6 +11,10 @@
 #
 # Wrap text in *asterisks* for italics.
 
+- file: octopus.jpg
+  title: Octopus
+  text: Octopuses solve puzzles, use tools and recognize individual people, and about two-thirds of their neurons are in their arms rather than their brain. Intelligence evolved more than once, and most octopuses live only a year or two.
+
 - file: seeds.png
   title: Seeds
   text: Book cover for a friend. "Mangiò i semi e scartò la buccia"
