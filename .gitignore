@@ -4,6 +4,12 @@
 # Web-sized illustration copies, made by scripts/prepare_images.py
 /images/illustrations/web/
 
+# Leftovers from the old Hugo site, if they are still on your computer
+/public/
+/resources/
+/assets/
+jsconfig.json
+
 # R / RStudio
 .Rproj.user
 .Rhistory
