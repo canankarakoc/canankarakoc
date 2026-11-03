@@ -17,8 +17,9 @@
 #   pdf, code, data   links shown as buttons
 #   abstract   shown behind an "Abstract" button
 #   status     e.g. "In press" or "Under review": listed at the top of the
-#              Publications page (not on the home page). Remove it once the
-#              paper is out and add the doi.
+#              Publications page (not on the home page). When the paper is
+#              out, add it by DOI: the helper replaces this entry and keeps
+#              its note and code links.
 #
 # Your name ("Karakoç C") is bolded automatically; add * for co-first authors.
 # Order does not matter: the page sorts by year, newest first.
@@ -31,11 +32,30 @@
   status: Under review
   code: https://github.com/GaTechBrownLab/Galleria_Survival
 
-- title: An eco-evolutionary consumer-resource theory of host-microbe symbioses
+- title: An eco-evolutionary consumer–resource theory of host–microbe symbioses
   authors: Martignoni MM, Bordenstein SR, Karakoç C, Tyson RC, Brown SP, Garnier J
   journal: Journal of Evolutionary Biology
+  details: voag100
   year: 2026
-  status: In press
+  doi: 10.1093/jeb/voag100
+  abstract: >-
+    Symbiotic associations between microorganisms and hosts are universal,
+    diverse, and dynamic. Yet, our ability to represent this complexity
+    mathematically remains limited. We propose extending consumer–resource
+    theory to incorporate evolutionary processes to advance our understanding of
+    symbioses, from pairwise interactions to complex host–microbe assemblages.
+    The resulting eco-evolutionary framework captures feedbacks between
+    host–microbe interaction structure, biotic resource availability, and
+    selection acting across biological scales. Importantly, this approach
+    relaxes the assumption of separated ecological and evolutionary timescales
+    so that both processes unfold simultaneously. The coupling between
+    ecological and evolutionary dynamics allows key properties of symbioses,
+    such as ecological dependence and functional integration, to emerge from
+    evolving resource-mediated interactions, rather than being imposed a priori.
+    We illustrate the framework with a mathematical model of mycorrhizal
+    symbiosis. The proposed consumer–resource formulation provides a unified
+    basis for linking ecological and evolutionary dynamics in host–microbe
+    symbioses, with implications for both basic theory and applied management.
 
 - title: Evolutionary bioenergetics of sporulation
   authors: Karakoç C, Shoemaker WR, Lennon JT

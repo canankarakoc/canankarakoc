@@ -22,6 +22,9 @@ let pubs = items.slice().sort((a, b) =>
   pending(b) - pending(a) || (Number(b.year) || 0) - (Number(a.year) || 0));
 if (compact) pubs = pubs.filter((p) => !pending(p));
 if (limit) pubs = pubs.slice(0, limit);
+// Heading for that first group, e.g. "Under review" or "In press & under review".
+const statuses = [...new Set(pubs.filter(pending).map((p) => text(p.status)))].sort();
+const pendingLabel = statuses.map((t, i) => i ? t.toLowerCase() : t).join(' & ');
 let lastGroup = null;
 %>
 ```{=html}
@@ -31,7 +34,7 @@ let lastGroup = null;
      const extra = [['PDF', pub.pdf], ['Code', pub.code], ['Data', pub.data]]
        .concat((pub.links || []).map((l) => [l.name, l.url]))
        .filter((l) => text(l[1]));
-     const group = pending(pub) ? 'In press & under review' : String(pub.year);
+     const group = pending(pub) ? pendingLabel : String(pub.year);
      if (!compact && group !== lastGroup) { lastGroup = group; %>
   <h3 class="pub-year" id="<%- pending(pub) ? 'forthcoming' : 'y' + pub.year %>"><%- group %></h3>
 <%   } %>

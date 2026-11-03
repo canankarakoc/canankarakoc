@@ -22,6 +22,10 @@ directly on GitHub (pencil icon) or locally in RStudio.
 
 ## Add a publication
 
+You only need the paper's DOI. A BibTeX entry from the journal has it in
+its `doi` field (e.g. `doi = {10.1093/jeb/voag100}`); there is no need to
+convert BibTeX to YAML yourself.
+
 **Option 1 — from the DOI, on GitHub (no computer setup needed)**
 1. Open the repository on GitHub → **Actions** → **Add publication** → **Run workflow**.
 2. Paste the DOI (e.g. `10.1073/pnas.2524274123`) and press **Run workflow**.
@@ -40,8 +44,9 @@ are required. The comment block at the top of the file explains every field.
 
 Papers that are in press or under review: add `status: In press` (or
 `Under review`) and leave out the DOI. They are listed at the top of the
-Publications page. When the paper is out, delete that entry and add the
-published version (option 1 or 2 will remind you).
+Publications page. When the paper is out, add it with option 1 or 2: the
+in-press entry is replaced by the published one, and its `code:` and `note:`
+lines are kept.
 
 ## Add an illustration
 
